@@ -15,8 +15,8 @@
 
 ## Syllabus
 
-The assignments in this web studio are arranged sequentially to
-enable the production of a website of professional-quality design and production. The studio, for those seriously interested in web design, stresses interactivity, usability, quality and appropriateness of look and feel. Students are expected to develop content and complete a professional-quality website.
+In this course, students focus on client and server side programming, as well as the web design and development process. Students are also introduced to databases for the web. Examples of dynamic web applications include content management systems, registration systems, and social media solutions.
+
 
 
 ### PROGRAM GOALS

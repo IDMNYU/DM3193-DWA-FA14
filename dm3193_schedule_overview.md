@@ -13,5 +13,4 @@
 
 ---
 
-## Required and Recommended Resources
-
+## SCHEDULE OVERVIEW

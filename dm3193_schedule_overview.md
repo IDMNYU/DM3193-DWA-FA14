@@ -73,11 +73,13 @@
     <tr>
         <td>12</td>
         <td>Nov 17<br>CMS: Debug Theme Modification</td>
-        <td>Nov 19<br>(OPTIONAL) CMS: Create Custome Theme</td>
+        <td>Nov 19<br>(OPTIONAL) CMS: Create Custome Theme<br>
+        (OPTIONAL) CMS: Recreate your site in the other CMS (Drupal or Wordpress) instead to compare and contrast</td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 24<br>(OPTIONAL) CMS: Create Custome Theme</td>
+        <td>Nov 24<br>(OPTIONAL) CMS: Create Custome Theme<br>
+        (OPTIONAL) CMS: Recreate your site in the other CMS (Drupal or Wordpress) instead to compare and contrast</td>
         <td>Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>

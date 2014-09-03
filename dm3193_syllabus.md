@@ -3,14 +3,10 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • Fall 2014
-    Mondays & Wednesdays • 4:30-6:20PM
-    Room: 2MTC MAGNET 811 • 3 credit hrs
+    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014
+    Mondays & Wednesdays • 4:30-6:20PM • Room: 2MTC MAGNET 811 • 3 credit hrs
     
-    Office hours by appointment or directly before class
-    Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
-    Email: deangela.duff@nyu.edu
-    
+    Office hours by appointment or directly before class • Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
     Github Repository:http://github.com/IDMNYU/DM3193-DWA-FA14
     Course Management Site
     * http://basecamp.com 
@@ -125,27 +121,28 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
+* 4% Mural.ly boards
 * 5% IDM Coursework Documentation
 * 5% Portfolio PDF
 * 5% Show & Tells
-* 5% Learning Logs
 * 5% Reading Responses
 * 5% Midterm Self-Assessment & Rubric
-* 5% Final Self-Assessment & Rubric
-* 5% Quizzes
-* 5% Tickets to Leave
-* 10% Homework Assignments
-* 20% Midterm: HTML/CSS Responsive Framework
+* 5% Letter to Next Cohort, Final Self-Assessment & Rubric
+* 5% Project Plan
+* 13% Learning Logs
+* 13% Classroom Exercises
+* 15% Midterm: HTML/CSS Responsive Framework
 * 20% Final: Course Management System (CMS)
 
 
-##### Projects Grading Overview
+##### Midterm and Final Grading Overview
 
 * 40% Participation in the mandatory class critique
-* 20% Information design (sitemap, wireframes / schematics, clickthrough)
-* 40% Interface design which includes
-  * Interaction and User Experience design (including tech & functionality spec)
-  * Visual design (including comps, mood boards, and/or style guides)
+* 10% Your Process
+* 15% Information design
+* 15% Interaction Design
+* 10% Visual design
+* 10% Craft
 
 ##### Qualitative Grading Overview
 
@@ -211,30 +208,6 @@ See Appendix
 
 ### [PROJECT PLAN](dm3193_project_plan.md)
 See Appendix
-
-### END OF SEMESTER PDF DELIVERABLE
-
-#### PDF Cover:
-* Your First and Last Name
-* DM 3193 Dynamic Web Applications
-* Fall 2014
-* Duff
-
-#### PDF Contents:
-* Revised Project plan
-* Revised Essay
-* HTML5/CSS3/Responsive
-  * Sitemap
-  * Wireframes or Schematics
-  * Comps
-  * Tech & Functionality Specifications
-  * Screenshots
-* Wordpress, Drupal, or Ruby on Rails
-  * (Optional Revised) Sitemap
-  * (Optional Revised) Wireframes or Schematics
-  * (Optional Revised) Comps
-  * Revised Tech & Functionality Specifications
-  * Screenshots
 
 ### [SCHEDULE OVERVIEW GRID] (dm3193_schedule_overview.md)
 See Appendix

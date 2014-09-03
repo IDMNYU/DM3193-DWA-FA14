@@ -164,6 +164,39 @@ material provided and answer 1 or both of the following questions:
     </ul></td>
 </tr>
 
+<tr>
+<td><strong>END OF SEMESTER PDF</strong></td>
+<td>PDF Cover:
+<ul>
+<li>Your First and Last Name</li>
+<li>DM 3193 Dynamic Web Applications</li>
+<li>Fall 2014</li>
+<li>Duff</li>
+</ul>
+PDF Contents:
+<ul>
+<li> Revised Project plan</li>
+<li> Revised Essay</li>
+<li> HTML5/CSS3/Responsive</li>
+  <ul>
+  <li> Sitemap</li>
+  <li> Wireframes or Schematics</li>
+  <li> Comps</li>
+  <li> Tech &amp; Functionality Specifications</li>
+  <li> Screenshots</li>
+  </ul>
+<li> Wordpress, Drupal, or Ruby on Rails</li>
+  <ul>
+  <li> (Optional Revised) Sitemap</li>
+  <li> (Optional Revised) Wireframes or Schematics</li>
+  <li> (Optional Revised) Comps</li>
+  <li> Revised Tech &amp; Functionality Specifications</li>
+  <li> Screenshots</li>
+  </ul>
+</ul>
+  </td>
+</tr>
+
 </table>
 
 

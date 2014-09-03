@@ -183,8 +183,12 @@ Students, in addition to their regular NYU allotment, also have available to the
   * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up your web server space
   * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
 
+### READINGS
+There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand interactivity, information design, visual design, and sound. Because this is not a technical training course for HTML, flex, jquery, and PHP but an exploration of web design AND development, I expect full attention to both types of reading.
 
 ### [REQUIRED AND RECOMMENDED RESOURCES](dm3193_resources.md)
+
+### [PROJECTS &amp; ASSIGNMENTS](dm3193_projects.md)
 
 ### [PROJECT PLAN](dm3193_project_plan.md)
 

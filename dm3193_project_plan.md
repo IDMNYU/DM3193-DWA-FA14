@@ -16,10 +16,12 @@
 <table>
     <tr>
         <td>Title</td>
-        <td>* Your first and last name
-            * Dynamic Web Applications
-            * NYU School of Engineering
-            * Fall 2014</td>
+        <td><ul>
+            <li>Your first and last name</li>
+            <li>Dynamic Web Applications</li>
+            <li>NYU School of Engineering</li>
+            <li>Fall 2014</li>
+            </ul></td>
     </tr>
     <tr>
         <td>Project Statement / Goal</td>

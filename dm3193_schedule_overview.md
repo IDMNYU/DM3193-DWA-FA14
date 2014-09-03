@@ -18,7 +18,7 @@
     <tr>
         <td>1</td>
         <td></td>
-        <td>Sep 3<br>Ideation</td>
+        <td>Sep 3<br>Overview of Course &amp; Ideation</td>
     </tr>
     <tr>
         <td>2</td>

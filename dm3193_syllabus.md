@@ -3,9 +3,10 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 • Mondays & Wednesdays • 4:30-6:20PM • Room: 2MTC MAGNET 811 • 3 credit hrs
+    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 • Mondays & Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
     
     Office hours by appointment or directly before class • Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
+    
     Github Repository:http://github.com/IDMNYU/DM3193-DWA-FA14
     Course Management Site
     * http://basecamp.com 
@@ -26,7 +27,7 @@ This is my favorite website, http://nesoupfactorysalem.com/soups-of-the-day. I v
 Freely distributed information that’s relevant to the person reading it. That’s web design. 
 
 
-## Welcome to Web Studio 2!
+## Welcome to Dynamic Web Applications!
 
 In this course, students focus on client and server side programming, as well as the web design and development process. Students are also introduced to databases for the web. Examples of dynamic web applications include content management systems, registration systems, and social media solutions.
 
@@ -121,13 +122,13 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ##### Quantitative Grading Overview
 
 * 4% Mural.ly boards
-* 5% IDM Coursework Documentation
-* 5% Portfolio PDF
+* 5% IDM Coursework Documentation / Portfolio PDF
 * 5% Show & Tells
 * 5% Reading Responses
 * 5% Midterm Self-Assessment & Rubric
 * 5% Letter to Next Cohort, Final Self-Assessment & Rubric
 * 5% Project Plan
+* 5% Service Agreement
 * 13% Learning Logs
 * 13% Classroom Exercises
 * 15% Midterm: HTML/CSS Responsive Framework

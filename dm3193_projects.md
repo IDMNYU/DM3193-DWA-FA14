@@ -93,7 +93,10 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
     <ul>
     <li>The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</li>
     <li>The most confusing points, and why they were confusing.</li>
-    <li>How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses</li></ul></td>
+    <li>How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses</li></ul>
+    <p>For learning (your first job), an additional requirement:
+Based on the article and your own experience, create 10 commandments for success in a project-based course</p>
+    </td>
 </tr>
 
 <tr>
@@ -142,7 +145,8 @@ Feedback re: required book
 
 <tr>
     <td><strong>Show &amp; Tells<br></strong></td>
-    <td><p><i>Post to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. Post at least 1 before or by the midterm and at least 1 before or by the final</i></p>
+    <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
+    <p><i>Post to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. Post at least 1 before or by the midterm and at least 1 before or by the final</i></p>
 
     Each week, select a link to one of the following:
     <ul>

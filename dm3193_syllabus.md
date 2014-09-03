@@ -163,9 +163,22 @@ Performance and attendance of the student has been less than adequate. Work is l
 ###### F. Unacceptable (59 & Below)
 Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
 
+### TECHNOLOGY USE IN THE CLASSROOM
+
+This class is about visual foundation principles first and foremost & technology second. Through lectures & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. Among your listing of books in this syllabus, as well as the class website, I have listed several helpful resources to help you in getting up to speed with technology. 
+
+Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc.  Also, during class screenings, your laptops should not be used.
+
+
+### ACADEMIC HONESTY
+
+All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA style for citing and documenting source material.   
+
+
 ### ACADEMIC ACCOMMODATIONS
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+
 
 ### ADDITIONAL INFO REGARDING PRINTING
 
@@ -186,7 +199,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 ### READINGS
 There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand interactivity, information design, visual design, and sound. Because this is not a technical training course for HTML, flex, jquery, and PHP but an exploration of web design AND development, I expect full attention to both types of reading.
 
-### [REQUIRED AND RECOMMENDED RESOURCES](dm3193_resources.md)
+### [REQUIRED AND RECOMMENDED RESOURCES](resources/dm3193_resources.md)
 
 ### [PROJECTS &amp; ASSIGNMENTS](dm3193_projects.md)
 

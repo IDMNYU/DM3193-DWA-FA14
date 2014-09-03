@@ -3,27 +3,47 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department
 
-    De Angela L. Duff • Fall 2014
-    Mondays & Wednesdays • 4:30-6:20PM
-    Room: 2MTC MAGNET 811 • 3 credit hrs 
+    De Angela L. Duff • Fall 2014 • Mondays & Wednesdays • 4:30-6:20PM • Room: 2MTC MAGNET 811 • 3 credit hrs
 
 ---
 
 
 ## REQUIRED RESOURCES
 
+*JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
+This book should be available for purchase in the NYU bookstore, as well as be on reserve in the NYU School of Engineering library.
+
 ## RECOMMENDED RESOURCES
 
     * Available as an ebook through [NYU Poly’s Library website](http://poly.libguides.com/ebooks) via books 24x7
     ** Available as an ebook through NYU Poly’s Library’s website via Safari
+
+#### [Wordpress] (wordpress_resources.md)
+
+#### [Drupal] (drupal_resources.md)
+
+#### [Ruby On Rails] (ruby_on_rails_resources.md)
+
+#### MAMP/WAMP
+
+* [MAMP] (http://www.mamp.info/en)
+* [WAMP] (http://www.wampserver.com/en)
+* [Smashing Magazine: Developing Wordpress Locally with MAMP] (http://wp.smashingmagazine.com/2011/09/28/developing-wordpress-locally-with-mamp)
+* [css-tricks.com (Chris Coyier) #87: Moving Up with MAMP ] (http://css-tricks.com/video-screencasts/87-moving-up-with-mamp)
+* [Moving Wordpress - Localhost to Live] (http://www.pryde-design.co.uk/2010/06/moving-wordpress-localhost-to-live)
+* [Part 2 of How To Migrate an Existing Website to WordPress] (https://vimeo.com/61278240)
 
 #### User Experience
 * Don’t Make Me Think: A Common Sense Approach to Web Usability by Steve Krug **
 * The Principles of Beautiful Web Design, Second Edition by Jason Beaird *
 * Jesse James Garrett’s Elements of User Experience
 * http://www.jjg.net/elements/pdf/elements_simpleplanes.pdf
-* http://www.jjg.net/elements/pdf/elements.pdf Sitemaps
-* http://quirktools.com (smaps) Wireframes / schematics
+* http://www.jjg.net/elements/pdf/elements.pdf 
+
+### Sitemaps
+* http://quirktools.com (smaps) 
+
+### Wireframes / schematics
 * http://balsamiq.com
 * http://moqups.com
 * http://quirktools.com (wires)
@@ -66,18 +86,28 @@
 * http://www.htmlquick.com/tutorials/organizing-a-website/2.html
 
 #### HTML & HTML5 Resources
+
+### HTML5 Books
 * HTML & CSS by Jon Duckett *
 * Head First HTML with CSS & XHTML by Elizabeth & Eric Freeman **
 * Head First HTML5 Programming by Elizabeth & Eric Freeman **
-* A Book Apart: HTML5 for Web Designers by Jeremy Keith HTML5 Documentation
+* A Book Apart: HTML5 for Web Designers by Jeremy Keith 
+
+### HTML5 Documentation
 * http://diveintohtml5.info/table-of-contents.html
 * http://developer.mozilla.org
 * http://html5doctor.com
-* http://htmlandcssbook.com HTML5 Articles
+* http://htmlandcssbook.com 
+
+### HTML5 Articles
 * http://html5rocks.com
-* http://html5doctor.com/article-archive HTML5 Templates
+* http://html5doctor.com/article-archive 
+
+### HTML5 Templates
 * http://code.google.com/p/html5shiv
-* http://html5boilerplate.com HTML5 Tools
+* http://html5boilerplate.com 
+
+### HTML5 Tools
 * http://html5please.com
 * http://html5readiness.com
 * http://www.html5rocks.com/en/resources
@@ -143,13 +173,6 @@
 * [JQuery Plugins](http://plugins.jquery.com)
 * [JQuery plugin: Superscrollorama](http://johnpolacek.github.io/superscrollorama)
 * [Javascript vs. JQuery vs. CSS3 Transitions & Transforms](http://davidwalsh.name/css-js-animation)
-
-#### Tumblr Resources
-* [Theme Garden](https://www.tumblr.com/themes)
-* [Theme FAQ](https://www.tumblr.com/docs/en/themes)
-* [Theme Docs](https://www.tumblr.com/docs/en/custom_themes)
-* [Submission Guidelines](https://www.tumblr.com/docs/en/theme_submission_guidelines)
-* [Submission Form](https://www.tumblr.com/themes/new)
 
 #### Framework Resources (Bootstrap vs. Foundation)
 * [Top 5 core differences between Bootstrap and Foundation](https://medium.com/@felippenardi/top-5-core-differences-between-bootstrap-3-and-foundation-5-8b3812c7007c)

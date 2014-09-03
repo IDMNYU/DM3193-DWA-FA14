@@ -29,12 +29,12 @@
     </tr>
     <tr>
         <td>3</td>
-        <td>Sep 15<br><emphasis>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</emphasis><br>Sitemap / Wireframes 1st Draft<br>Content Research &amp; Collection</td>
+        <td>Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>Sitemap / Wireframes 1st Draft<br>Content Research &amp; Collection</td>
         <td>Sep 17<br>Sitemap / Wireframes 2nd Draft<br>Continued Content Research &amp; Collection</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br><emphasis>Last day to drop fall 2014 classes and not receive a grade of "W"</emphasis><br>Visual Design: Mural.ly Inspiration Board</td>
+        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Visual Design: Mural.ly Inspiration Board</td>
         <td>Sep 24<br>Visual Design: Mural.ly Moodboard</td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@
     </tr>
     <tr>
         <td>7</td>
-        <td>Oct 13<br><strong>NO Class: NYU Fall Recess</strong></td>
+        <td>Oct 13<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
         <td>Oct 15<br><strong>Midterm Project DUE: HTML5/CSS3/Responsive Website</strong></td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 3<br><emphasis>Last Day to Withdraw</emphasis><br>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</td>
+        <td>Nov 3<br><i>Last Day to Withdraw</i><br>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</td>
         <td>Nov 5<br>CMS: Theme Modification</td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@
     <tr>
         <td>13</td>
         <td>Nov 24<br>(OPTIONAL) CMS: Create Custome Theme</td>
-        <td>Nov 26<br><strong>NO CLASS: Thanksgiving Holiday</strong></td>
+        <td>Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>14</td>

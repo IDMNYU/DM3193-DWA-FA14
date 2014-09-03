@@ -14,7 +14,7 @@
   * [Development Service Contract] (https://www.docracy.com/7079/development-service-contract)
 * [AIGA Standard Service Agreement] (http://www.aiga.org/standard-agreement/)
 * [smashing magazine: The Collective Legal Guide for Designers] (http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
-
+* My Service Agreement
 
 [Dealing with Clients who refuse to pay] (http://www.smashingmagazine.com/2010/04/09/dealing-with-clients-who-refuse-to-pay)
 * [CSS Kill Switch] (http://csskillswitch.com)

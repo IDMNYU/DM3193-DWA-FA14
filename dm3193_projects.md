@@ -78,7 +78,7 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
     <td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
     Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
     <ul>
-    <li>Instances where you achieved clarity or experienced fragments of knowledge failing into place in your learning.</li>
+    <li>Instances where you achieved clarity or experienced fragments of knowledge falling into place in your learning.</li>
     <li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>
     <li>Connections you made among the week’s readings, lectures, class activities, homework assignments, etc.</li>
     </ul></td>
@@ -148,7 +148,7 @@ Feedback re: required book
 <tr>
     <td><strong>Show &amp; Tells<br></strong></td>
     <td><p>Every class session 1 to 2 students will share a link with the class. Dates TBD.</p>
-    <p><i>Post to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. Post at least 1 before or by the midterm and at least 1 before or by the final</i></p>
+    <p><i>Post a message to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. You will post 2 for the semeter. Dates TBD.</i></p>
 
     Each week, select a link to one of the following:
     <ul>
@@ -156,7 +156,8 @@ Feedback re: required book
     <li>a website that is well designed visually.</li>
     <li>a website that has an interesting use of technology.</li>
     <li>a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</li>
-    </ul></td>
+    </ul>
+    <p>And briefly describe why you think the class should know about this link?</td>
 </tr>
 
 <tr>
@@ -166,7 +167,7 @@ material provided and answer 1 or both of the following questions:
     <ul>
     <li>What are the three most important points you learned today in class?</li>
     <li>What concept(s) confuses you from today’s lecture or exercises? (This
-    is will give you a clue to what you should study before the next class.)</li>
+    will give you a clue to what you should study before the next class.)</li>
     </ul></td>
 </tr>
 

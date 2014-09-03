@@ -50,15 +50,10 @@
     <tr>
         <td>2</td>
         <td valign="top">Sep 8
-        <ul>
-        <li><a href="dm3193_project_plan.md">Project Plan 1st Draft</a></li>
-        <li><a href="dm3193_service_agreements.md">Service Agreement</a> 1st Draft</li>
+        <ul>  
         <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
         </ul></td>
-        <td valign="top">Sep 10
-        <ul>
-        <li><a href="dm3193_project_plan.md">Project Plan Final</a></li>
-        <li><a href="dm3193_service_agreements.md">Service Agreement</a> Final</li>
+       <li>Come to class with your client or possibilities for a client</li>
         </ul>
         </td>
     </tr>

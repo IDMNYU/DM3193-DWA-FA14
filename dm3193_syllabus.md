@@ -1,18 +1,4 @@
-# DM-UY 3193 Dynamic Web Applications
-
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media
-#### Technology, Culture & Society Department
-
-    De Angela L. Duff • Fall 2014
-    Mondays & Wednesdays • 4:30-6:20PM
-    Room: 2MTC MAGNET 811 • 3 credit hrs
-    Office hours by appointment or directly before class
-    Email: deangela.duff@nyu.edu
-    Class Website: 
-
----
-
+(hdr.md)
 ## Syllabus
 
 In this course, students focus on client and server side programming, as well as the web design and development process. Students are also introduced to databases for the web. Examples of dynamic web applications include content management systems, registration systems, and social media solutions.

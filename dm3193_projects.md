@@ -42,7 +42,7 @@ For an example, see http://mirandaws2.tumblr.com
     </tr>
     <tr>
         <td><strong>Project Plan</strong></td>
-        <td>[View project plan details] (dm3193_project_plan.md)</td>
+        <td><a href="dm3193_project_plan.md">View project plan details</a></td>
     </tr>
     <tr>
         <td><strong>Show &amp; Tells</strong></td>

@@ -52,8 +52,7 @@
         <td valign="top">Sep 8
         <ul>  
         <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
-        </ul>
-    <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory and a directory</a> for your site</li>
+        <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
        <li>Come to class with your client or possibilities for a client</li>
         </ul>
         </td>

@@ -38,7 +38,7 @@
 
     </tr>
     <tr>
-        <td><strong>IDM Coursework Documentation</strong></td>
+        <td><strong><a id="idm">IDM Coursework Documentation</a></strong></td>
         <td><p>Set up your IDM coursework documentation site at sites.bxmc.poly.edu/~yourfirstnamelastname/idm</p>
 <p>Add your blog URL to basecamp underneath, MESSAGES > IDM coursework documentation, as a comment.</p>
 <p>This is a new policy that IDM is implementing this semester. We would like to begin archiving all student coursework.

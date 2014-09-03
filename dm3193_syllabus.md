@@ -40,14 +40,14 @@ In this course, students focus on client and server side programming, as well as
 
 The following IDM program goals are reinforced within this course. Students will:
 
-* 1 – Students will develop conceptual thinking skills to generate ideas and content in order to solve problems or create opportunities.
+* 1 – Students will develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
   * Students will develop a research and studio practice through inquiry and iteration.
-* 2 – Students will develop technical skills to realize their ideas.
+* 2 – Students will develop **technical skills** to realize their ideas.
   * Students will understand and utilize tools and technology, while adapting to constantly changing technological paradigms by learning how to learn.
   * Students will be able to integrate/interface different technologies within a technological ecosystem.
-* 3 – Students will develop critical thinking skills that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
-* 4 – Students will gain knowledge of professional practices and organizations by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
-* 5 – Students will develop collaboration skills to actively and effectively work in a team or group.
+* 3 – Students will develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
+* 4 – Students will gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
+* 5 – Students will develop **collaboration skills** to actively and effectively work in a team or group.
 
 
 ### COURSE GOALS
@@ -60,21 +60,19 @@ This course will reinforce or introduce students to:
 * the responsive web
 
 This course will help students to:
-* Understand current web design and development practices 
-* Explore issues of interface design including visual design, interaction design, information architecture, information design, and user experience
-* Develop a vocabulary to evaluate and critique web design and development
-* Develop a knowledge of available web services/APIs
-* Understand and implement the iterative process
-* Improve their verbal and written communication
+* understand current content management system platforms 
+* further explore issues of user experience including visual design, interaction design, information architecture, and information design
+* continue to develop a vocabulary to evaluate and critique web design and development
 
 
 ### LEARNING OUTCOMES
 
 By the end of the course, students will be able to
 * design, build, and develop content for a professional-quality website.
-* create an internal developer / creative community
+* Understand and implement the iterative process
 * learn how to proactively Learn also known as Self-Regulated Learning
 In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
+* create an internal developer / creative community
 
 
 ### COURSE STRUCTURE
@@ -101,7 +99,6 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Complete all assignments by due dates
 * Acquire and keep up with all of the readings 
 * Read all assigned readings before class
-* Interact weekly with a sketchbook to brainstorm & work out your ideas
 * Action – do your absolute best
 * Strive for continuous improvement
 * Email contact about logistics (when, where, how many?) ONLY

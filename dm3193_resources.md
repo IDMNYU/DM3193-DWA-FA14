@@ -18,11 +18,11 @@ This book should be available for purchase in the NYU bookstore, as well as be o
     * Available as an ebook through [NYU Poly’s Library website](http://poly.libguides.com/ebooks) via books 24x7
     ** Available as an ebook through NYU Poly’s Library’s website via Safari
 
-#### [Wordpress] (wordpress_resources.md)
+#### [Wordpress] (dm3193_wordpress_resources.md)
 
-#### [Drupal] (drupal_resources.md)
+#### [Drupal] (dm3193_drupal_resources.md)
 
-#### [Ruby On Rails] (ruby_on_rails_resources.md)
+#### [Ruby On Rails] (dm3193_ruby_on_rails_resources.md)
 
 #### MAMP/WAMP
 

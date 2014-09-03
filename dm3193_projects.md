@@ -9,6 +9,8 @@
 
 ## Projects and Assignments
 
+### PROJECTS
+
 <table>
     <tr>
         <td colspan="2"><i>All due dates can be found in the schedule overview grid. This is just an overview and description of all the projects and main assignments for the course. All projects and assignments are subject to change at the discretion of the professor.</i></td>
@@ -40,6 +42,10 @@ For an example, see http://mirandaws2.tumblr.com
     Every class session two students will share a link with the class. The link can be an example of a well designed site, interesting use of technology, or useful information (article, tutorial, etc.). Each student will share two links over the course of the semester. </td>
 
     </tr>
+</table>
+
+### ASSIGNMENTS
+<table>
     <tr>
         <td><strong>Project Plan</strong></td>
         <td><a href="dm3193_project_plan.md">View project plan details</a></td>
@@ -76,12 +82,12 @@ For an example, see http://mirandaws2.tumblr.com
     <tr>
         <td><strong>Show &amp; Tells<br>Throughout the semester, post to basecamp with a subject of “show &amp; tell: descriptive name” and your name as the category.</strong></td>
         <td>Each week, select a link to one of the following:
-<ul>
-<li>a website that has clear navigation and visual hierarchy.</li>
-<li>a website that is well designed visually.</li>
-<li>a website that has an interesting use of technology.</li>
-<li>a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</li>
-</ul></td>
+        <ul>
+        <li>a website that has clear navigation and visual hierarchy.</li>
+        <li>a website that is well designed visually.</li>
+        <li>a website that has an interesting use of technology.</li>
+        <li>a link to an article or tutorial about HTML5, CSS3, mobile first, the responsive web, and other web related issues.</li>
+        </ul></td>
     </tr>
 </table>
 

@@ -19,20 +19,21 @@
 
 ---
 
-“Whatever we learn to do, we learn by actually doing it: men come to be builders, for instance, by building, and harp players by playing the harp.” -Aristotle
+*“Whatever we learn to do, we learn by actually doing it: men come to be builders, for instance, by building, and harp players by playing the harp.”* -Aristotle
 
-FOOD FOR THOUGHT by Dan Cederholm
+**FOOD FOR THOUGHT by Dan Cederholm**
 http://simplebits.com/notebook/2013/02/16/food-for-thought/
 
 FEB 16, 2013
+
 This is my favorite website, http://nesoupfactorysalem.com/soups-of-the-day. I visit it almost every day. It’s not responsive. It’s not optimized for iPhone. It looks blurry on a Retina display. It doesn’t use the latest HTML5/CSS3 framework. It doesn’t have a thoughtful vertical rhythm. The fonts are nothing special. It is neither skeumorphic nor flat. It doesn’t have its own favicon. It doesn’t have a native app or Twitter or Instagram. It doesn’t use AJAX or SCRUM or node.js or Sinatra. It doesn’t have an API or an RSS feed or VC funding. It hasn’t been featured on a prominent tech blog or won an award. It tells me the soups of the day.
 
 Freely distributed information that’s relevant to the person reading it. That’s web design. 
 
+
 ## Welcome to Web Studio 2!
 
 In this course, students focus on client and server side programming, as well as the web design and development process. Students are also introduced to databases for the web. Examples of dynamic web applications include content management systems, registration systems, and social media solutions.
-
 
 
 ### PROGRAM GOALS
@@ -47,7 +48,6 @@ The following IDM program goals are reinforced within this course. Students will
 * 3 – Students will develop critical thinking skills that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
 * 4 – Students will gain knowledge of professional practices and organizations by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 * 5 – Students will develop collaboration skills to actively and effectively work in a team or group.
-
 
 
 ### COURSE GOALS
@@ -66,7 +66,6 @@ This course will help students to:
 * Develop a knowledge of available web services/APIs
 * Understand and implement the iterative process
 * Improve their verbal and written communication
-
 
 
 ### LEARNING OUTCOMES
@@ -90,6 +89,7 @@ Rules of the Critique:
 * Do NOT take feedback personally.
 
 Students will conduct self assessments as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
+
 
 ### STUDENT RESPONSIBILITIES
 
@@ -170,6 +170,10 @@ Performance and attendance of the student has been such that course requirements
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
+### ADDITIONAL INFO REGARDING PRINTING
+
+Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Librarysee the Library staff for further assistance.
+
 ### SOFTWARE REQUIREMENTS
 * Browser: Chrome or Firefox
 * Github Account: github.com/join
@@ -182,7 +186,10 @@ If you are student with a disability who is requesting accommodations, please co
   * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up your web server space
   * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
 
+
 ### [REQUIRED AND RECOMMENDED RESOURCES](dm3193_resources.md)
+
+### [PROJECT PLAN](dm3193_project_plan.md)
 
 ### END OF SEMESTER PDF DELIVERABLE
 
@@ -201,7 +208,7 @@ If you are student with a disability who is requesting accommodations, please co
   * Comps
   * Tech & Functionality Specifications
   * Screenshots
-* Wordpress, Drupal, or Ruby
+* Wordpress, Drupal, or Ruby on Rails
   * (Optional Revised) Sitemap
   * (Optional Revised) Wireframes or Schematics
   * (Optional Revised) Comps

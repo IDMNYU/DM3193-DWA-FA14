@@ -60,7 +60,7 @@ For an example, see http://mirandaws2.tumblr.com
     </tr>
     <tr>
         <td><strong>Reading Responses</strong></td>
-        <td><i>Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “reading response: name of article” and your name as the category for at least one required article and reflect on one of the following questions.</i>
+        <td><i>Post to basecamp with a subject of "reading response: name of article" and your name as the category and reflect on one of the following questions.</i>
         <ul>
         <li>The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</li>
 <li>The most confusing points, and why they were confusing.</li>
@@ -68,7 +68,7 @@ For an example, see http://mirandaws2.tumblr.com
     </tr>
     <tr>
         <td><strong>Learning Logs</strong><br></td>
-        <td><p><i>Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “learning log: descriptive name” and your name as the category.</i></p>
+        <td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
         Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
 <ul>
 <li>Instances where you achieved clarity or experienced fragments of knowledge failing into place in your learning.</li>
@@ -78,11 +78,17 @@ For an example, see http://mirandaws2.tumblr.com
     </tr>
     <tr>
         <td><strong>Ticket to Leave</strong></td>
-        <td>Each class period, before you leave write your name on the writing material provided (post it, note card, etc.) and answer 1 or both of the questions.</td>
+        <td>Each class period, before you leave write your name on the writing
+material provided and answer 1 or both of the following questions:
+<ul>
+<li>What are the three most important points you learned today in class?</li>
+<li>What concept(s) confuses you from today’s lecture or exercises? (This
+is will give you a clue to what you should study before the next class.)</li>
+</ul></td>
     </tr>
     <tr>
         <td><strong>Show &amp; Tells<br></strong></td>
-        <td><p><i>Throughout the semester, post to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category.</i></p>
+        <td><p><i>Post to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category. Post at least 1 before or by the midterm and at least 1 before or by the final</i></p>
 
         Each week, select a link to one of the following:
         <ul>

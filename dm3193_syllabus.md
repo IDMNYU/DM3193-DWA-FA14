@@ -206,7 +206,7 @@ See Appendix
 ### [PROJECTS &amp; ASSIGNMENTS](dm3193_projects.md)
 See Appendix
 
-### [PROJECT PLAN](dm3193_project_plan.md)
+### [PROJECT PLAN](assignments/dm3193_project_plan.md)
 See Appendix
 
 ### [SCHEDULE OVERVIEW GRID] (dm3193_schedule_overview.md)

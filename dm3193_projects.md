@@ -55,7 +55,7 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 <table>
 <tr>
     <td><strong>Project Plan</strong></td>
-    <td><a href="dm3193_project_plan.md">View project plan details</a></td>
+    <td><a href="assignments/dm3193_project_plan.md">View project plan details</a></td>
 </tr>
 
 <tr>

@@ -15,6 +15,18 @@
 <td>Monday (due on date listed)</td>
 <td>Wednesday (due on date listed)</td>
 </tr>
+<!-- second week -->
+    <tr>
+        <td>2</td>
+        <td valign="top">Sep 8
+        <ul>  
+        <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
+        <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
+       <li>Come to class with the name of your client and your website idea or possibilities for a client</li>
+        </ul>
+        </td>
+        <td>Sep 10<br></td>
+    </tr>
 <!-- first week -->
 <tr>
 <td>1</td>
@@ -46,16 +58,5 @@
 <li>Ideation</li>
 </ul></td>
 </tr>
-<!-- second week -->
-    <tr>
-        <td>2</td>
-        <td valign="top">Sep 8
-        <ul>  
-        <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
-        <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-       <li>Come to class with your client or possibilities for a client</li>
-        </ul>
-        </td>
-        <td>Sep 10<br></td>
-    </tr>
+
 </table>

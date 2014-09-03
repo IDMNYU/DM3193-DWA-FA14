@@ -16,6 +16,7 @@
         <td>Title</td>
         <td><ul>
             <li>Your first and last name</li>
+            <li>Your client's name or organization</li>
             <li>Dynamic Web Applications</li>
             <li>NYU School of Engineering</li>
             <li>Fall 2014</li>

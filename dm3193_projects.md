@@ -25,7 +25,7 @@
         <li>bootstrap (http://getbootstrap.com)</li>
         </ul>
 
-        <p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3</p></td>
+        <p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3)</p></td>
     </tr>
     <tr>
         <td><strong>Final: Course Management System (CMS)</strong></td>

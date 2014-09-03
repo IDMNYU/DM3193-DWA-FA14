@@ -7,11 +7,6 @@
 
 ---
 
-## Ruby On Rails Resources
-
-### BASIC RUBY ON RAILS RESOURCES
-* [Ruby on Rails] (http://rubyonrails.org)
-* [Ruby on Rails Guides] (http://guides.rubyonrails.org)
-* [lynda.com: Ruby on Rails 4 Essential Training with Kevin Skoglund] (http://lynda.com)
-
+## SASS Resources
+Will be added momentarily
 

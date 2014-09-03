@@ -17,13 +17,15 @@
     </td>
     <tr>
         <td><strong>Midterm: HTML/CSS Responsive Framework</strong></td>
-        <td>Design (or redesign) and build the front-end (or client-side) of a website for a real client of your choosing using the HTML/CSS responsive framework of your choice. If you can not find an external client, build a website for one of your classmates.
+        <td><p>Design (or redesign) and build the front-end (or client-side) of a website for a real client of your choosing using the HTML/CSS responsive framework of your choice. If you can not find an external client, build a website for one of your classmates.</p>
 
-        Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice:
+        <p>Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice:</p>
         <ul>
         <li>foundation (http://foundation.zurb.com)</li>
         <li>bootstrap (http://getbootstrap.com)</li>
-        </ul></td>
+        </ul>
+
+        <p>Focus on Content first and foremost. Also focus on functionality and interactivity (i.e. javascript, jQuery, &amp; / or CSS3</p></td>
     </tr>
     <tr>
         <td><strong>Final: Course Management System (CMS)</strong></td>

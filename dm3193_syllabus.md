@@ -214,4 +214,4 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 
 
-### OVERVIEW OF SCHEDULE GRID
+### [SCHEDULE OVERVIEW GRID] (dm3193_schedule_overview.md)

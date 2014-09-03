@@ -1,5 +1,5 @@
-(hdr.md)
-## Syllabus
+### [Syllabus](hdr.md)
+
 
 In this course, students focus on client and server side programming, as well as the web design and development process. Students are also introduced to databases for the web. Examples of dynamic web applications include content management systems, registration systems, and social media solutions.
 

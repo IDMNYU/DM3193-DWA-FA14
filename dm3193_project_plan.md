@@ -17,9 +17,9 @@
     <tr>
         <td>Title</td>
         <td>* Your first and last name
-* Dynamic Web Applications
-* NYU School of Engineering
-* Fall 2014</td>
+            * Dynamic Web Applications
+            * NYU School of Engineering
+            * Fall 2014</td>
     </tr>
     <tr>
         <td>Project Statement / Goal</td>

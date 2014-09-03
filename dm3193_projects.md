@@ -11,13 +11,12 @@
 
 <table>
     <tr>
-        <th colspan="2">
-All due dates can be found in the schedule overview grid. This is just an overview and description of all the projects for the course. All projects are subject to change at the discretion of the professor.</th>
-    </tr>
+        <td colspan="2"><i>All due dates can be found in the schedule overview grid. This is just an overview and description of all the projects and main assignments for the course. All projects and assignments are subject to change at the discretion of the professor.</i></td>
+    </td>
     <tr>
-        <td>Midterm: HTML/CSS Responsive Framework </td>
-        <td>Design (or redesign) and build the front-end for a real client of your choosing using the HTML/CSS responsive framework of your choice. If you can not find an external client, build a website for one of your classmates.
-         
+        <td><strong>Midterm: HTML/CSS Responsive Framework</strong></td>
+        <td>Design (or redesign) and build the front-end (or client-side) for a real client of your choosing using the HTML/CSS responsive framework of your choice. If you can not find an external client, build a website for one of your classmates.
+
         Choose one of the following HTML/CSS frameworks or discuss with the professor a HTML/CSS framework of your choice:
         <ul>
         <li>foundation (http://foundation.zurb.com)</li>
@@ -25,8 +24,8 @@ All due dates can be found in the schedule overview grid. This is just an overvi
         </ul></td>
     </tr>
     <tr>
-        <td>Final: Course Management System</td>
-        <td>Migrate your website to a CMS of your choice
+        <td><strong>Final: Course Management System (CMS)</strong></td>
+        <td>Migrate your website to a CMS of your choice (back-end or server-side integration)
 <ul>
 <li>wordpress (http://wordpress.org)</li>
 <li>drupal (http://www.drupal.org)</li>
@@ -35,15 +34,19 @@ All due dates can be found in the schedule overview grid. This is just an overvi
 
     </tr>
     <tr>
-        <td>Dedicated Class Blog:</td>
+        <td><strong>Dedicated Class Blog</strong></td>
         <td>Tumblr or Wordpress Create a wordpress/tumblr blog to document all of your work from this semester. 
 For an example, see http://mirandaws2.tumblr.com
     Every class session two students will share a link with the class. The link can be an example of a well designed site, interesting use of technology, or useful information (article, tutorial, etc.). Each student will share two links over the course of the semester. </td>
 
     </tr>
     <tr>
-        <td>Show &amp; Tells</td>
-        <td>Select one website on the that has clear navigation and visual hierarchy. Present to the class, discussing why it has a clear navigation and hierarchy and as a result interaction. The focus this time should be on clarity and usability, not aesthetics. At the same time, try to use what we’ve learned from our discussions of your projects, in your discussion of this site. 
+        <td><strong>Project Plan</strong></td>
+        <td>[View project plan details] (dm3193_project_plan.md)</td>
+    </tr>
+    <tr>
+        <td><strong>Show &amp; Tells</strong></td>
+        <td>Select one website on the that has clear navigation and visual hierarchy. Present to the class, discussing why it has a clear navigation and hierarchy and as a result interaction. The focus this time should be on clarity and usability, not aesthetics. At the same time, try to use what we’ve learned from our discussions of your projects, in your discussion of this site.<br> 
 or<br>
 Select a website that is well designed visually.<br>
 or<br>

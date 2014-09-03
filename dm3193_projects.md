@@ -59,16 +59,17 @@ For an example, see http://mirandaws2.tumblr.com
         <td></td>
     </tr>
     <tr>
-        <td><strong>Reading Responses</strong><br>Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “reading response: name of article” and your name as the category for at least one required article and reflect on one of the following questions.</td>
-        <td>
+        <td><strong>Reading Responses</strong></td>
+        <td><i>Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “reading response: name of article” and your name as the category for at least one required article and reflect on one of the following questions.</i>
         <ul>
         <li>The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.</li>
 <li>The most confusing points, and why they were confusing.</li>
 <li>How the material connects with or breaks from your prior knowledge or how it connects with your knowledge from other courses</li></ul></td>
     </tr>
     <tr>
-        <td><strong>Learning Logs</strong><br>Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “learning log: descriptive name” and your name as the category.</td>
-        <td>Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
+        <td><strong>Learning Logs</strong><br></td>
+        <td><p><i>Each week by Monday before class (except last week, Thursday), post to basecamp with a subject of “learning log: descriptive name” and your name as the category.</i></p>
+        Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
 <ul>
 <li>Instances where you achieved clarity or experienced fragments of knowledge failing into place in your learning.</li>
 <li>Instances where you did NOT achieve clarity and why. What can you do to aid your understanding?</li>
@@ -80,8 +81,10 @@ For an example, see http://mirandaws2.tumblr.com
         <td>Each class period, before you leave write your name on the writing material provided (post it, note card, etc.) and answer 1 or both of the questions.</td>
     </tr>
     <tr>
-        <td><strong>Show &amp; Tells<br>Throughout the semester, post to basecamp with a subject of “show &amp; tell: descriptive name” and your name as the category.</strong></td>
-        <td>Each week, select a link to one of the following:
+        <td><strong>Show &amp; Tells<br></strong></td>
+        <td><p><i>Throughout the semester, post to basecamp with a subject of "show &amp; tell: descriptive name" and your name as the category.</i></p>
+
+        Each week, select a link to one of the following:
         <ul>
         <li>a website that has clear navigation and visual hierarchy.</li>
         <li>a website that is well designed visually.</li>

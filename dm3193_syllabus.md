@@ -125,15 +125,19 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 ##### Quantitative Grading Overview
 
-* 5% Midterm Self-Assessment
-* 5% Final Self-Assessment
-* 12.5% HTML Quiz
-* 12.5% Portfolio PDF (see requirements below)
-* 15% Show & Tells
-* 25% HTML5/CSS3/Responsive flat file website
-  * 25% Wordpress
-  * or
-  * 50% Web Application
+* 5% IDM Coursework Documentation
+* 5% Portfolio PDF
+* 5% Show & Tells
+* 5% Learning Logs
+* 5% Reading Responses
+* 5% Midterm Self-Assessment & Rubric
+* 5% Final Self-Assessment & Rubric
+* 5% Quizzes
+* 5% Tickets to Leave
+* 10% Homework Assignments
+* 20% Midterm: HTML/CSS Responsive Framework
+* 20% Final: Course Management System (CMS)
+
 
 ##### Projects Grading Overview
 

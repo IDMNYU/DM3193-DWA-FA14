@@ -23,15 +23,12 @@
             <ul>
             <li>Show &amp; Tell: Max</li>
             <li>Discuss Finalized Syllabus</li>
-            <li>Discuss TA: James Crowson</li>
             <ul>
             <li><a href="http://gitprint.com" target="_blank">http://gitprint.com</a></li>
             </ul>
-
+            <li>Discuss TA: James Crowson</li>
             <li>Review Client Website Ideas</li>
             <li>Review Quiz</li>
-            <li>Review HTML5/CSS3</li>
-            <li>Review The Reponsive Web (Media Queries)</li>
             </ul>
         <strong>Homework</strong>
             <ul>
@@ -45,9 +42,13 @@
         <strong>Class</strong><br>
         <ul>
         <li>Show &amp; Tell: Isaac</li>
+        <li>Review Quiz</li>
+        <li>Review HTML5/CSS3</li>
+        <li>Review The Reponsive Web (Media Queries)</li>
         <li>Review Frameworks (Bootstrap and Foundation)
         <li>Review SASS
         <li>Review Javascript/JQuery
+        <li>Ticket to Leave</li>
         </li>
         </ul>
         <strong>Homework</strong>

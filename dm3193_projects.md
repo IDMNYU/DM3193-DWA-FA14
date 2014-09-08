@@ -167,7 +167,7 @@ material provided and answer 1 or both of the following questions:
     <ul>
     <li>What are the three most important points you learned today in class?</li>
     <li>What concept(s) confuses you from today’s lecture or exercises? (This
-    will give you a clue to what you should study before the next class.)</li>
+    will give you a clue as to what you should study before the next class.)</li>
     </ul></td>
 </tr>
 

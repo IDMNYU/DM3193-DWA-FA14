@@ -5,17 +5,16 @@
 
     De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 
     Mondays & Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
-    
     Office hours by appointment or directly before class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
-    
+   
    
 ###Github Repository: http://github.com/IDMNYU/DM3193-DWA-FA14
 
-    Course Management Site
-    • http://basecamp.com 
-    • http://polishedsolid.basecamphq.com
-    • http://dwa.polishedsolid.com
+###Course Management Site
+* http://basecamp.com 
+* http://polishedsolid.basecamphq.com
+* http://dwa.polishedsolid.com
 
 *“Whatever we learn to do, we learn by actually doing it: men come to be builders, for instance, by building, and harp players by playing the harp.”* -Aristotle
 

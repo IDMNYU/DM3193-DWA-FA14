@@ -17,10 +17,7 @@
 </tr>
 <!-- second week -->
     <tr>
-        <td valign="top" rowspan="">2</td>
-    </tr>
-    <tr>
-        <td></td>
+        <td valign="top" rowspan="3">2</td>
         <td valign="top"><strong>Sep 8</strong></td>
         <td valign="top"><strong>Sep 10</strong></td>
     </tr>

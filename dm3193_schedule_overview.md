@@ -27,17 +27,17 @@
     </tr>
     <tr>
         <td>3</td>
-        <td>Sep 15<br>Project Plan 1st Draft<br>Service Agreement 1st Draft</td>
+        <td>Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>Project Plan 1st Draft<br>Service Agreement 1st Draft</td>
         <td>Sep 17<br>Project Plan Final<br>Service Agreement Final</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>Sitemap / Wireframes 1st Draft<br>Content Research &amp; Collection</td>
+        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Sitemap / Wireframes 1st Draft<br>Content Research &amp; Collection</td>
         <td>Sep 24<br>Sitemap / Wireframes 2nd Draft<br>Continued Content Research &amp; Collection</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Sep 29<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Visual Design: Mural.ly Inspiration Board</td>
+        <td>Sep 29<br>Visual Design: Mural.ly Inspiration Board</td>
         <td>Oct 01<br>Visual Design: Mural.ly Moodboard</td>
     </tr>
     <tr>
@@ -47,12 +47,12 @@
     </tr>
     <tr>
         <td>7</td>
-        <td>Oct 13<br>Framework Production</td>
+        <td>Oct 13<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
         <td>Oct 15<br>Framework Production</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 20<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
+        <td>Oct 20<br>Framework Production</td>
         <td>Oct 22<br><strong>Midterm Project DUE: HTML5/CSS3/Responsive Website</strong></td>
     </tr>
     <tr>
@@ -62,12 +62,12 @@
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 3<br>CMS: Research &amp; Deploy Theme</td>
+        <td>Nov 3<br><i>Last Day to Withdraw</i><br>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)<br>CMS: Research &amp; Deploy Theme</td>
         <td>Nov 5<br>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 10<br><i>Last Day to Withdraw</i><br>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</td>
+        <td>Nov 10</td>
         <td>Nov 12<br>CMS: Theme Modification</td>
     </tr>
     <tr>

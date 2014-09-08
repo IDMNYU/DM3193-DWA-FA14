@@ -210,7 +210,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand interaction design, information design, visual design, and user experience. Because this course is an exploration of web design AND development, I expect full attention to both types of reading.
 
 
-### [REQUIRED AND RECOMMENDED RESOURCES](resources/dm3193_resources.md)
+### [REQUIRED AND RECOMMENDED RESOURCES](dm3193_resources.md)
 See Appendix
 
 ### [PROJECTS &amp; ASSIGNMENTS](dm3193_projects.md)

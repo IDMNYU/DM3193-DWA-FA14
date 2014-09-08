@@ -9,8 +9,7 @@
 
 ## SCHEDULE OVERVIEW
 
-**NOTE: Click on link for weekly detail**
-
+*All dates and assignments are subject to change at the discretion of the professor! Github and basecamp are the official sources for all dates and assignments; the syllabus is not. The printed syllabus is a general overview / a guideline; Github / Basecamp are living, dynamic sources. **If there are any changes to the schedule as printed in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
 <table>
     <tr>
         <th>wk</th>

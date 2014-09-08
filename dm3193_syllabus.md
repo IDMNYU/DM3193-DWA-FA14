@@ -72,9 +72,9 @@ This course will help students to:
 
 By the end of the course, students will be able to
 * design, build, and develop content for a professional-quality website.
-* Understand and implement the iterative process
-* learn how to proactively Learn also known as Self-Regulated Learning
-In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
+* understand and implement the iterative process
+* learn how to proactively learn also known as self-regulated learning
+  * In any learning situation, you should study beforehand, make/do, debug, reflect, adjust, and do it all over again (iteration). Learning happens in a cycle.
 * create an internal developer / creative community
 
 
@@ -95,23 +95,23 @@ Students will conduct self assessments as well as be evaluated by the professor 
 ### STUDENT RESPONSIBILITIES
 
 * Schedule your time (keep a calendar of some sort) 
-* Come to class on time and participate (Be present and engaged)
+* Come to class on time and participate (be present and engaged)
 * Study outside of class (ideally with classmate(s)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult basecamp at least once a week for up to date info
 * Complete all assignments by due dates
-* Acquire and keep up with all of the readings 
-* Read all assigned readings before class
+* Acquire and read all assigned readings before they are due
 * Action – do your absolute best
 * Strive for continuous improvement
-* Email contact about logistics (when, where, how many?) ONLY
-* Talk to me in person about issues and problems. Do not email long conversations. (If your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
-* Have Desire amounting to Enthusiasm (to learn, to explore)
-* Have Patience, Persistence, and Discipline 
-* Be Creative
-* Pay attention to Detail & Craft
-* Have Self-confidence and Pride in your work
-* Take Risks & Be Fearless in your projects
+* Email contact about logistics (when, where, how many?) only
+* Talk to me in person about issues and problems. do not email long conversations. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
+* Have desire amounting to enthusiasm (to learn, to explore)
+* Have patience, persistence, and discipline 
+* Be creative
+* Pay attention to detail & craft
+* Have self-confidence and pride in your work
+* Take risks & be fearless in your projects
+* Have fun!
 
 
 ### EVALUATION & GRADING
@@ -173,9 +173,9 @@ Performance and attendance of the student has been such that course requirements
 
 ### TECHNOLOGY USE IN THE CLASSROOM
 
-This class is about visual foundation principles first and foremost & technology second. Through lectures & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. Among your listing of books in this syllabus, as well as the class website, I have listed several helpful resources to help you in getting up to speed with technology. 
+This class is about web design and development principles and technology. Through lectures & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s/developer's shoulders. Community tech sharing is highly advised as well. I have listed several helpful resources to help you in getting up to speed with technology within the syllabus and on github. 
 
-Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc.  Also, during class screenings, your laptops should not be used.
+Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing DWA homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, myspace, etc.  Also, during class screenings, your laptops should not be used.
 
 
 ### ACADEMIC HONESTY
@@ -207,7 +207,7 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 
 ### READINGS
-There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand interactivity, information design, visual design, and sound. Because this is not a technical training course for HTML, flex, jquery, and PHP but an exploration of web design AND development, I expect full attention to both types of reading.
+There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand interaction design, information design, visual design, and user experience. Because this course is an exploration of web design AND development, I expect full attention to both types of reading.
 
 
 ### [REQUIRED AND RECOMMENDED RESOURCES](resources/dm3193_resources.md)

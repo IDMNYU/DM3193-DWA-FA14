@@ -10,7 +10,7 @@
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
     
    
-###Github Repository:http://github.com/IDMNYU/DM3193-DWA-FA14
+###Github Repository: http://github.com/IDMNYU/DM3193-DWA-FA14
 
     Course Management Site
     • http://basecamp.com 

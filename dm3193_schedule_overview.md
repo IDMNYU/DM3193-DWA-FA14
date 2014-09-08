@@ -9,6 +9,8 @@
 
 ## SCHEDULE OVERVIEW
 
+**NOTE: Click on link for weekly detail**
+
 <table>
     <tr>
         <th>wk</th>
@@ -21,9 +23,9 @@
         <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep3.md" target="_blank">Sep 3<br>Overview of Course &amp; Ideation</a></td>
     </tr>
     <tr>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep8.md" target="_blank">2</a></td>
+        <td>2</td>
         <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep8.md" target="_blank">Sep 8</a><br>Clients / Review: Quiz, HTML5/CSS3, The Reponsive Web (Media Queries)</td>
-        <td>Sep 10<br>Review: Frameworks (Bootstrap and Foundation), SASS, Javascript/JQuery</td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep8.md" target="_blank">Sep 10<br>Review: Frameworks (Bootstrap and Foundation), SASS, Javascript/JQuery</a></td>
     </tr>
     <tr>
         <td>3</td>

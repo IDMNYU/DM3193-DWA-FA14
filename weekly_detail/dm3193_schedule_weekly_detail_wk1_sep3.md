@@ -19,7 +19,8 @@
 <tr>
 <td>1</td>
 <td></td>
-<td valign="top">CLASS OVERVIEW &amp; IDEATION 
+<td valign="top"><strong>Sep 3</strong><br>
+        <strong>Class</strong><br>CLASS OVERVIEW &amp; IDEATION 
 <ul>
 <li>Knowledge Survey</li>
 <li>Quiz</li>

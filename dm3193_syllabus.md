@@ -3,19 +3,21 @@
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 • Mondays & Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
+    De Angela L. Duff • deangela.duff@nyu.edu • Fall 2014 • Mondays & Wednesdays
+    4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
     
-    Office hours by appointment or directly before class • Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
+    Office hours by appointment or directly before class • Office: 2MTC MAGNET 882
+    Office Phone: 646 997 0718
     
-    Github Repository:http://github.com/IDMNYU/DM3193-DWA-FA14
+    **Github Repository:http://github.com/IDMNYU/DM3193-DWA-FA14**
     Course Management Site
     * http://basecamp.com 
     * http://polishedsolid.basecamphq.com
     * http://dwa.polishedsolid.com
 
----
 
 *“Whatever we learn to do, we learn by actually doing it: men come to be builders, for instance, by building, and harp players by playing the harp.”* -Aristotle
+
 
 **FOOD FOR THOUGHT by Dan Cederholm**
 http://simplebits.com/notebook/2013/02/16/food-for-thought/
@@ -25,6 +27,7 @@ FEB 16, 2013
 This is my favorite website, http://nesoupfactorysalem.com/soups-of-the-day. I visit it almost every day. It’s not responsive. It’s not optimized for iPhone. It looks blurry on a Retina display. It doesn’t use the latest HTML5/CSS3 framework. It doesn’t have a thoughtful vertical rhythm. The fonts are nothing special. It is neither skeumorphic nor flat. It doesn’t have its own favicon. It doesn’t have a native app or Twitter or Instagram. It doesn’t use AJAX or SCRUM or node.js or Sinatra. It doesn’t have an API or an RSS feed or VC funding. It hasn’t been featured on a prominent tech blog or won an award. It tells me the soups of the day.
 
 Freely distributed information that’s relevant to the person reading it. That’s web design. 
+
 
 
 ## Welcome to Dynamic Web Applications!

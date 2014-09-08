@@ -20,18 +20,18 @@
 
 ## RECOMMENDED RESOURCES
 
-#### Specific Resources for Coursework (as separate github pages)
-* [Drupal] (dm3193_drupal_resources.md)
-* [Framework Resources] (dm3193_frameworks_resources.md)
-* [GitHub Resources] (dm3193_github_resources.md)
-* [Javascript & JQuery Resources] (dm3193_javascript_jquery_resources.md)
-* [MAMP/WAMP] (dm3193_mamp_wamp_resources.md)
-* [Mobile First Resources] (dm3193_mobile_first_resources.md)
-* [Responsive Web Resources] (dm3193_responsive_web_resources.md)
-* [Ruby On Rails] (dm3193_ruby_on_rails_resources.md)
-* [Sass Resources] (dm3193_sass_resources.md)
-* [User Experience] (dm3193_ux_resources.md)
-* [Wordpress] (dm3193_wordpress_resources.md)
+#### Specific Resources for Coursework (as separate github pages in resources folder)
+* [Drupal] (resources/dm3193_drupal_resources.md)
+* [Framework Resources] (resources/dm3193_frameworks_resources.md)
+* [GitHub Resources] (resources/dm3193_github_resources.md)
+* [Javascript & JQuery Resources] (resources/dm3193_javascript_jquery_resources.md)
+* [MAMP/WAMP] (resources/dm3193_mamp_wamp_resources.md)
+* [Mobile First Resources] (resources/dm3193_mobile_first_resources.md)
+* [Responsive Web Resources] (resources/dm3193_responsive_web_resources.md)
+* [Ruby On Rails] (resources/dm3193_ruby_on_rails_resources.md)
+* [Sass Resources] (resources/dm3193_sass_resources.md)
+* [User Experience] (resources/dm3193_ux_resources.md)
+* [Wordpress] (resources/dm3193_wordpress_resources.md)
 
 #### Additional Web Resources: Tutorials and Articles
 * [A List Apart](http://www.alistapart.com)

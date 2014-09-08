@@ -24,8 +24,8 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep8.md" target="_blank">Sep 8</a><br>Clients / Review: Quiz, HTML5/CSS3, The Reponsive Web (Media Queries)</td>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep8.md" target="_blank">Sep 10<br>Review: Frameworks (Bootstrap and Foundation), SASS, Javascript/JQuery</a></td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 8<br>Clients / Review: Quiz, HTML5/CSS3, The Reponsive Web (Media Queries)</a></td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 10<br>Review: Frameworks (Bootstrap and Foundation), SASS, Javascript/JQuery</a></td>
     </tr>
     <tr>
         <td>3</td>

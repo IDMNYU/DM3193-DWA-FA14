@@ -21,6 +21,7 @@
         <td valign="top"><strong>Sep 8</strong><br>
         <strong>Class</strong><br>
             <ul>
+            <li>Show &amp; Tell: Max</li>
             <li>Discuss Finalized Syllabus</li>
             <li>Discuss TA: James Crowson</li>
             <ul>
@@ -33,7 +34,8 @@
             <li>Review The Reponsive Web (Media Queries)</li>
             </ul>
         <strong>Homework</strong>
-            <ul>  
+            <ul>
+            <li>Learning Log - week 2</li>
             <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
             <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
            <li>Come to class with the name of your client and your website idea or possibilities for a client</li>
@@ -42,6 +44,7 @@
         <td valign="top"><strong>Sep 10</strong><br>
         <strong>Class</strong><br>
         <ul>
+        <li>Show &amp; Tell: Isaac</li>
         <li>Review Frameworks (Bootstrap and Foundation)
         <li>Review SASS
         <li>Review Javascript/JQuery
@@ -49,6 +52,7 @@
         </ul>
         <strong>Homework</strong>
         <ul>
+        <li>Learning Log - week 2 (if you have not submitted one for this week yet)</li>
         <li>Review as many as needed based on your needs: HTML5/CSS3, The Reponsive Web (Media Queries), Frameworks (Bootstrap and Foundation), SASS, and Javascript/JQuery
         <li>If you have not done so, come to class with the name of your client and your website idea or possibilities for a client</li>
             </ul>

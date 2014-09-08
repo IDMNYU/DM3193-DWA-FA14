@@ -185,6 +185,7 @@ If you are student with a disability who is requesting accommodations, please co
 
 Students, in addition to their regular NYU allotment, also have available to them $5 in printing credits for use at the Dibner Library. Credits are issued by the MAGNET Managers in Rm 809 and must be signed for before the credits can be used. Once signed for, students will be issued a username and password which can be used at any of the printer stations at Dibner Library. Print jobs can be sent to the printer from any computer station at the Librarysee the Library staff for further assistance.
 
+
 ### SOFTWARE REQUIREMENTS
 * Browser: Chrome or Firefox
 * Github Account: github.com/join
@@ -197,8 +198,10 @@ Students, in addition to their regular NYU allotment, also have available to the
   * You can receive web server space from IDM’s Technology Manager, Elton Kwok, MAGNET 883. Email eltonkwok@nyu.edu to set up your web server space
   * IDM’s FTP server info: http://sites.bxmc.poly.edu (Use active mode to connect)
 
+
 ### READINGS
 There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand interactivity, information design, visual design, and sound. Because this is not a technical training course for HTML, flex, jquery, and PHP but an exploration of web design AND development, I expect full attention to both types of reading.
+
 
 ### [REQUIRED AND RECOMMENDED RESOURCES](resources/dm3193_resources.md)
 See Appendix

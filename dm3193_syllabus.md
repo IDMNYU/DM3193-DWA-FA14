@@ -7,6 +7,8 @@
     Mondays & Wednesdays • 4:30-6:20PM • 2MTC MAGNET 811 • 3 credit hrs
     Office hours by appointment or directly before class 
     Office: 2MTC MAGNET 882 • Office Phone: 646 997 0718
+
+    Prerequisite: DM-UY 2193 Intro to Web Development or Equivalent
    
    
 ###Github Repository: http://github.com/IDMNYU/DM3193-DWA-FA14

@@ -14,6 +14,8 @@
 ###Course Management Site
 * http://basecamp.com | http://polishedsolid.basecamphq.com | http://dwa.polishedsolid.com
 
+---
+
 *“Whatever we learn to do, we learn by actually doing it: men come to be builders, for instance, by building, and harp players by playing the harp.”* -Aristotle
 
 

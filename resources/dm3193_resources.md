@@ -20,6 +20,19 @@
 
 ## RECOMMENDED RESOURCES
 
+### Specific Resources for Coursework
+#### [Drupal] (dm3193_drupal_resources.md)
+#### [Framework Resources] (dm3193_frameworks_resources.md)
+#### [GitHub Resources] (dm3193_github_resources.md)
+#### [Javascript & JQuery Resources] (dm3193_javascript_jquery_resources.md)
+#### [MAMP/WAMP] (dm3193_mamp_wamp_resources.md)
+#### [Mobile First Resources] (dm3193_mobile_first_resources.md)
+#### [Responsive Web Resources] (dm3193_responsive_web_resources.md)
+#### [Ruby On Rails] (dm3193_ruby_on_rails_resources.md)
+#### [Sass Resources] (dm3193_sass_resources.md)
+#### [User Experience] (dm3193_ux_resources.md)
+#### [Wordpress] (dm3193_wordpress_resources.md)
+
 #### Additional Web Resources: Tutorials and Articles
 * [A List Apart](http://www.alistapart.com)
 * [Boagworld Podcasts](http://boagworld.com/podcast)
@@ -32,40 +45,10 @@
 * [50 of the Best Online Courses and Resources for Learning Web Design](http://lifehacker.com/50-of-the-best-online-courses-and-resources-for-learnin-1506605654)
 * [5by5Podcasts](http://5by5.tv) (Big Web Show, The Web Ahead, etc.)
 
-#### [Drupal] (dm3193_drupal_resources.md)
-See Appendix
 
-#### [Framework Resources] (dm3193_frameworks_resources.md)
-See Appendix
 
-#### [GitHub Resources] (dm3193_github_resources.md)
-See Appendix
 
-#### [Javascript & JQuery Resources] (dm3193_javascript_jquery_resources.md)
-See Appendix
-
-#### [MAMP/WAMP] (dm3193_mamp_wamp_resources.md)
-See Appendix
-
-#### [Mobile First Resources] (dm3193_mobile_first_resources.md)
-See Appendix
-
-#### [Responsive Web Resources] (dm3193_responsive_web_resources.md)
-See Appendix
-
-#### [Ruby On Rails] (dm3193_ruby_on_rails_resources.md)
-See Appendix
-
-#### [Sass Resources] (dm3193_sass_resources.md)
-See Appendix
-
-#### [User Experience] (dm3193_ux_resources.md)
-See Appendix
-
-#### [Wordpress] (dm3193_wordpress_resources.md)
-See Appendix
-
-### RECOMMENDED JOB BOARDS FOR WEB DESIGN AND DEVELOPMENT
+## RECOMMENDED JOB BOARDS FOR WEB DESIGN AND DEVELOPMENT
 
 * [Krop](http://www.krop.com)
 * [We Work Remotely](https://weworkremotely.com)

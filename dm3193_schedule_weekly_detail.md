@@ -17,17 +17,20 @@
 </tr>
 <!-- second week -->
     <tr>
-        <td valign="top" rowspan="">3</td>
+        <td valign="top" rowspan="">2</td>
     </tr>
     <tr>
+        <td></td>
         <td valign="top"><strong>Sep 8</strong></td>
         <td valign="top"><strong>Sep 10</strong></td>
     </tr>
     <tr>
+        <td></td>
         <td valign="top"><strong>Class</strong></td>
         <td valign="top"><strong>Class</strong></td>
     </tr>
     <tr>
+        <td></td>
         <td valign="top"><strong>Homework</strong><ul>  
         <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
         <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>

@@ -18,11 +18,11 @@
     <tr>
         <td>1</td>
         <td></td>
-        <td>Sep 3<br>Overview of Course &amp; Ideation</td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep3.md" target="_blank">Sep 3<br>Overview of Course &amp; Ideation</a></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>Sep 8<br>Clients / Review: Quiz, HTML5/CSS3, The Reponsive Web (Media Queries)</td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep8.md" target="_blank">2</a></td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep8.md" target="_blank">Sep 8</a><br>Clients / Review: Quiz, HTML5/CSS3, The Reponsive Web (Media Queries)</td>
         <td>Sep 10<br>Review: Frameworks (Bootstrap and Foundation), SASS, Javascript/JQuery</td>
     </tr>
     <tr>

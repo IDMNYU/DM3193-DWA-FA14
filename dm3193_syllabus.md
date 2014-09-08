@@ -11,8 +11,9 @@
    
 ###Github Repository: http://github.com/IDMNYU/DM3193-DWA-FA14
 
-###Course Management Site
+####Course Management Site
 * http://basecamp.com | http://polishedsolid.basecamphq.com | http://dwa.polishedsolid.com
+
 
 ---
 
@@ -28,6 +29,7 @@ This is my favorite website, http://nesoupfactorysalem.com/soups-of-the-day. I v
 
 Freely distributed information that’s relevant to the person reading it. That’s web design. 
 
+---
 
 
 ## Welcome to Dynamic Web Applications!

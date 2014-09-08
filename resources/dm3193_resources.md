@@ -21,7 +21,7 @@
 ## RECOMMENDED RESOURCES
 
 ### Specific Resources for Coursework
-#### [Drupal] (dm3193_drupal_resources.md)
+##### [Drupal] (dm3193_drupal_resources.md)
 #### [Framework Resources] (dm3193_frameworks_resources.md)
 #### [GitHub Resources] (dm3193_github_resources.md)
 #### [Javascript & JQuery Resources] (dm3193_javascript_jquery_resources.md)

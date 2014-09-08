@@ -18,12 +18,41 @@
 <!-- second week -->
     <tr>
         <td valign="top">2</td>
-        <td valign="top"><strong>Sep 8</strong><br><strong>Class</strong><strong>Homework</strong><ul>  
-        <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
-        <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-       <li>Come to class with the name of your client and your website idea or possibilities for a client</li>
-        </ul></td>
-        <td valign="top"><strong>Sep 10</strong><br><strong>Class</strong><br><strong>Homework</strong></td>
+        <td valign="top"><strong>Sep 8</strong><br>
+        <strong>Class</strong><br>
+            <ul>
+            <li>Discuss Finalized Syllabus</li>
+            <li>Discuss TA: James Crowson</li>
+            <ul>
+            <li><a href="http://gitprint.com" target="_blank">http://gitprint.com</a></li>
+            </ul>
+
+            <li>Review Client Website Ideas</li>
+            <li>Review Quiz</li>
+            <li>Review HTML5/CSS3</li>
+            <li>Review The Reponsive Web (Media Queries)</li>
+            </ul>
+        <strong>Homework</strong>
+            <ul>  
+            <li>Reading Response for PDF on basecamp: Learning (Your First Job) by Robert Leamnson</li>
+            <li>get setup with <a href="dm3193_projects.md#idm">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
+           <li>Come to class with the name of your client and your website idea or possibilities for a client</li>
+            </ul>
+        </td>
+        <td valign="top"><strong>Sep 10</strong><br>
+        <strong>Class</strong><br>
+        <ul>
+        <li>Review Frameworks (Bootstrap and Foundation)
+        <li>Review SASS
+        <li>Review Javascript/JQuery
+        </li>
+        </ul>
+        <strong>Homework</strong>
+        <ul>
+        <li>Review as many as needed based on your needs: HTML5/CSS3, The Reponsive Web (Media Queries), Frameworks (Bootstrap and Foundation), SASS, and Javascript/JQuery
+        <li>If you have not done so, come to class with the name of your client and your website idea or possibilities for a client</li>
+            </ul>
+        </td>
     </tr>
 <!-- first week -->
 <tr>

@@ -7,6 +7,5 @@
 
 ---
 
-## SASS Resources
-Will be added momentarily
+##  RESOURCES
 

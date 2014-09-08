@@ -10,8 +10,8 @@
 
 ## REQUIRED RESOURCES
 
-*JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
-This book should be available for purchase in the NYU bookstore, as well as be on reserve in the NYU School of Engineering library.
+* Book: **JavaScript and JQuery: Interactive Front-End Web Development** by Jon Duckett
+  * This book should be available for purchase in the NYU bookstore, as well as be on reserve in the NYU School of Engineering library.
 
 * [learn Shay Howe] (http://learn.shayhowe.com)
 * [lynda.com] (http://lynda.com)

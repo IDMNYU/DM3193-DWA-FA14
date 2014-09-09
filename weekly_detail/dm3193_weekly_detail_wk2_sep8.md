@@ -43,6 +43,7 @@
         <ul>
         <li>Show &amp; Tell: Isaac</li>
         <li>Review Quiz</li>
+        <li>Review Directory Structure</li>
         <li>Review HTML5/CSS3</li>
         <li>Review The Reponsive Web (Media Queries)</li>
         <li>Review Frameworks (Bootstrap and Foundation)

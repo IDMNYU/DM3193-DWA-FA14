@@ -22,6 +22,7 @@
 ## RECOMMENDED RESOURCES
 
 #### Specific Resources for Coursework (as separate github pages in resources folder)
+* [General Web / HTML5 / CSS3] (resources/dm3193_web_html5_css3_resources.md)
 * [Drupal] (resources/dm3193_drupal_resources.md)
 * [Framework Resources] (resources/dm3193_frameworks_resources.md)
 * [GitHub Resources] (resources/dm3193_github_resources.md)

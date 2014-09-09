@@ -18,6 +18,9 @@
 * Book: Jesse James Garrett’s Elements of User Experience
   * http://www.jjg.net/elements/pdf/elements_simpleplanes.pdf
   * http://www.jjg.net/elements/pdf/elements.pdf 
+* The Principles of Beautiful Web Design, Second Edition 
+by Jason Beaird *
+* [UX Magazine] (http://www.uxmag.com)
 
 ### Sitemaps
 * http://quirktools.com (smaps) 

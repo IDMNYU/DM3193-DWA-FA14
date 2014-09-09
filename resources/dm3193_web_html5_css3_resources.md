@@ -13,6 +13,10 @@
     * Available as an ebook through [NYU Poly’s Library website](http://poly.libguides.com/ebooks) via books 24x7
     ** Available as an ebook through NYU Poly’s Library’s website via Safari
 
+#### General Web Books
+* [37 Signals’ Getting Real] (http://gettingreal.37signals.com/toc.php)
+* Designing for Interaction, 2nd Edition, by Dan Saffer
+
 #### General Web, HTML5, and CSS3 Tutorials
 * [learn Shay Howe] (http://learn.shayhowe.com)
 * [lynda.com] (http://lynda.com)
@@ -32,7 +36,8 @@
 #### HTML & HTML5 Resources
 
 ### HTML5 Books
-* HTML & CSS by Jon Duckett *
+* HTML & CSS by Jon Duckett * 
+* [HTML & CSS Book Online Companion] (http://htmlandcssbook.com)
 * Head First HTML with CSS & XHTML by Elizabeth & Eric Freeman **
 * Head First HTML5 Programming by Elizabeth & Eric Freeman **
 * A Book Apart: HTML5 for Web Designers by Jeremy Keith 
@@ -59,6 +64,7 @@
 
 #### CSS & CSS3 Resources
 * Book: [CSS3 for Web Designers by Dan Cederholm](http://www.abookapart.com/products/css3-for-web-designers)
+* **[Learn CSS Layout] (http://learnlayout.com)** 
 * [CSS Validator](http://jigsaw.w3.org/css-validator)
 
 #### Browser Compatibility

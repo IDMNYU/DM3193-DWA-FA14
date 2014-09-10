@@ -38,13 +38,10 @@
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Isaac</li>
+            <li><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md">Discuss Homework for Next Class</a></li>
             <li>Review Quiz</li>
             <li>Review Directory Structure</li>
             <li>Review HTML5/CSS3</li>
-            <li>Review The Reponsive Web (Media Queries)</li>
-            <li>Review Frameworks (Bootstrap and Foundation)
-            <li>Review SASS
-            <li>Review Javascript/JQuery
             <li>Ticket to Leave</li>
             </li>
         </ul></td>

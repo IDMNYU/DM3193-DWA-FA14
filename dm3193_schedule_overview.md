@@ -26,17 +26,17 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 8<br>Clients / Review: Quiz, HTML5/CSS3, The Reponsive Web (Media Queries)</a></td>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 10<br>Review: Frameworks (Bootstrap and Foundation), SASS, Javascript/JQuery</a></td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 8<br>Discuss Clients / Review Quiz</a></td>
+        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 10<br>Review Quiz / Intro to Web Review</a></td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>Project Plan 1st Draft<br>Service Agreement 1st Draft</td>
-        <td>Sep 17<br>Project Plan Final<br>Service Agreement Final</td>
+        <td>Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>Intro to Web Review<br>Project Plan 1st Draft<br>Service Agreement 1st Draft</td>
+        <td>Sep 17<br>Intro to Web Review<br>Sitemap / Wireframes 1st Draft<br></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Sitemap / Wireframes 1st Draft<br>Content Research &amp; Collection</td>
+        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Project Plan Final<br>Service Agreement FinalContent Research &amp; Collection</td>
         <td>Sep 24<br>Sitemap / Wireframes 2nd Draft<br>Continued Content Research &amp; Collection</td>
     </tr>
     <tr>

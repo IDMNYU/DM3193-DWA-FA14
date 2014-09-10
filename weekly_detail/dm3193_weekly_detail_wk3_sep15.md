@@ -26,14 +26,14 @@
         <td valign="top"><strong>class</strong></td>
         <td valign="top">
             <ul>
-            <li>Show &amp; Tell: </li>
+            <li>Show &amp; Tell: Rakinur</li>
             <li>Review Frameworks (Bootstrap and Foundation)
             <li>Review SASS
             <li>Ticket to Leave</li>
             </ul></td>
         <td valign="top">
             <ul>
-            <li>Show &amp; Tell: </li>       
+            <li>Show &amp; Tell: Arif</li>       
             <li>Review Javascript/JQuery
             <li>Ticket to Leave</li>
             </li>

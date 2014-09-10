@@ -38,6 +38,9 @@
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Isaac</li>
+            <li>Discuss Additional Learning (Your First Job) &amp; Commandments: Isaac, Nancy, Daryl, Stanford</li>
+            <li>Discuss why the reading Learning (Your First Job) was assigned</li>
+            <li>Discuss learning logs and resources again (specifically github)</li>
             <li><a href="dm3193_weekly_detail_wk3_sep15.md">Discuss Homework for Next Class</a></li>
             <li>Review Quiz</li>
             <li>Review Directory Structure</li>

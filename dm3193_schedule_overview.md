@@ -22,12 +22,12 @@
     <tr>
         <td>1</td>
         <td></td>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk1_sep3.md" target="_blank">Sep 3<br>Overview of Course &amp; Ideation</a></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk1_sep3.md" target="_blank">Sep 3<br>Overview of Course &amp; Ideation</a></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 8<br>Discuss Clients / Review Quiz</a></td>
-        <td><a href="weekly_detail/dm3193_schedule_weekly_detail_wk2_sep8.md" target="_blank">Sep 10<br>Review Quiz / Intro to Web Review</a></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk2_sep8.md" target="_blank">Sep 8<br>Discuss Clients / Review Quiz</a></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk2_sep8.md" target="_blank">Sep 10<br>Review Quiz / Intro to Web Review</a></td>
     </tr>
     <tr>
         <td>3</td>

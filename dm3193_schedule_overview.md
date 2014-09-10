@@ -31,8 +31,8 @@
     </tr>
     <tr>
         <td>3</td>
-        <td>Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>Intro to Web Review<br>Project Plan 1st Draft<br>Service Agreement 1st Draft</td>
-        <td>Sep 17<br>Intro to Web Review<br>Sitemap / Wireframes 1st Draft<br></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>Intro to Web Review<br>Project Plan 1st Draft<br>Service Agreement 1st Draft</a></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Intro to Web Review<br>Sitemap / Wireframes 1st Draft</a></td>
     </tr>
     <tr>
         <td>4</td>

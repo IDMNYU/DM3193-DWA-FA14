@@ -65,10 +65,10 @@
                 <ul>
                 <li>HTML/CSS</li>
                 <li>HTML5/CSS3</li>
+                <li>Javascript/JQuery</li>
                 <li>The Reponsive Web (Media Queries)</li>
                 <li>Frameworks (Bootstrap and Foundation)</li>
                 <li>CSS Preprocessor: SASS</li>
-                <li>Javascript/JQuery</li>
                 </ul>
             <li>If you have not done so, come to class with the name of your client and your website idea or possibilities for a client</li>
             </ul>

@@ -38,15 +38,16 @@
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Isaac</li>
-            <li>Discuss Additional Learning (Your First Job) &amp; Commandments: Isaac, Nancy, Daryl, Stanford</li>
+            <li>Discuss Additional Reading Responses for Learning (Your First Job): Isaac, Nancy, Daryl, Stanford</li>
             <li>Discuss why the reading Learning (Your First Job) was assigned</li>
-            <li>Discuss learning logs and resources again (specifically github)</li>
+            <li>Discuss learning logs</li>
+            <li>Discuss resources again (specifically github)</li>
             <li><a href="dm3193_weekly_detail_wk3_sep15.md">Discuss Homework for Next Class</a></li>
             <li>Review Quiz</li>
             <li>Review Directory Structure</li>
             <li>Review HTML5/CSS3</li>
+            <li>Review Responsive Web (if time)</li>
             <li>Ticket to Leave</li>
-            </li>
         </ul></td>
     </tr>
     <tr>
@@ -58,10 +59,17 @@
            <li>Come to class with the name of your client and your website idea or possibilities for a client</li>
             </ul>
         </td>
-        <td>
-            <ul>
+        <td><ul>
             <li>Learning Log - week 2 (if you have not submitted one for this week yet)</li>
-            <li>Review as many as needed based on your needs: HTML5/CSS3, The Reponsive Web (Media Queries), Frameworks (Bootstrap and Foundation), SASS, and Javascript/JQuery
+            <li>Review (i.e. do learning logs) for as many as needed based on your needs: 
+                <ul>
+                <li>HTML/CSS</li>
+                <li>HTML5/CSS3</li>
+                <li>The Reponsive Web (Media Queries)</li>
+                <li>Frameworks (Bootstrap and Foundation)</li>
+                <li>CSS Preprocessor: SASS</li>
+                <li>Javascript/JQuery</li>
+                </ul>
             <li>If you have not done so, come to class with the name of your client and your website idea or possibilities for a client</li>
             </ul>
         </td>

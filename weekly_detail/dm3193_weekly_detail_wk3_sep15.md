@@ -17,13 +17,13 @@
 </tr>
 <!-- dates -->
     <tr>
-        <td valign="top">3</td>
-        <td valign="top"><strong>Sep 15</strong></td>
-        <td valign="top"><strong>Sep 17</strong></td>
+        <td valign="top" width="4%">3</td>
+        <td valign="top" width="48%"><strong>Sep 15</strong></td>
+        <td valign="top" width="48%"><strong>Sep 17</strong></td>
     </tr>
 
     <tr>
-        <td valign="top"><strong>class</strong></td>
+        <td valign="top">class</td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Rakinur</li>

@@ -23,7 +23,7 @@
     </tr>
 
     <tr>
-        <td valign="top"><strong>class</strong></td>
+        <td valign="top">class</td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Max</li>

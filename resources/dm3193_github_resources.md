@@ -13,6 +13,7 @@
 * [Gitprint] (http://gitprint.com)
 * [Github](https://github.com)
 * [Free private repositories for students](https://education.github.com)
+* [Understanding Github a Journey for Beginners Part 1](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1) 
 * [Github glossary](https://help.github.com/articles/github-glossary)
 * [Github guides](https://guides.github.com)
 * [Github help](https://help.github.com)
@@ -21,4 +22,5 @@
 * [Github Training & Guides on Youtube](https://www.youtube.com/user/GitHubGuides)
 * [Introduction to GitHub & Git Foundations](https://www.youtube.com/watch?v=FyfwLX4HAxM)
 * [Other resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* [Keeping forks in sync] (https://help.github.com/articles/syncing-a-fork) 
 

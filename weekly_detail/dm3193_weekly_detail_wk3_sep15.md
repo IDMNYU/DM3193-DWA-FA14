@@ -28,6 +28,9 @@
             <ul>
             <li>Show &amp; Tell: Isaac &amp; Rakinur</li>
             <li>Discuss No TA</li>
+            <li>Discuss next class homework</li>
+            <li>Review Project Plans &amp; Service Agreements</li>
+            <li>Finish Reviewing Quiz</li>
             <li>Review Directory Structure</li>
             <li>Review HTML5/CSS3</li>
             <li>Review Responsive Web (if time)</li>

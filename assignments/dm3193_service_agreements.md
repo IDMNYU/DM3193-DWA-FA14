@@ -10,6 +10,9 @@
 
 ## SERVICE AGREEMENTS
 
+ * Please post **as a PDF** to basecamp as a Message with your name as a category
+ * Please name your file as yourname_service_agreement.pdf
+
 * [Docracy] (http://www.docracy.com/doc/showalluserdocs?sortBy=4&page=1&userId=7435)
   * **[Andy Clarke's Contract Killer 3] (http://stuffandnonsense.co.uk/projects/contract-killer)**
   * [Development Service Contract] (https://www.docracy.com/7079/development-service-contract)

@@ -12,6 +12,9 @@
 
  Refer to http://www.webmonkey.com/2010/02/information_architecture_tutorial for more detailed information. Should be 1 or 2 pages maximum. Be clear, concise, and to the point.
 
+ * Please post **as a PDF** to basecamp as a Message with your name as a category
+ * Please name your file as yourname_project_plan.pdf
+
 <table>
     <tr>
         <td>Title</td>

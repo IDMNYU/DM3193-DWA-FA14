@@ -31,18 +31,21 @@
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>Intro to Web Review<br>Project Plan 1st Draft<br>Service Agreement 1st Draft</a></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>
+        Intro to Web Review continued<br>
+        Project Plan 1st Draft<br>
+        Service Agreement 1st Draft</a></td>
         <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Intro to Web Review<br>Sitemap / Wireframes 1st Draft</a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Project Plan Final<br>Service Agreement FinalContent Research &amp; Collection</td>
-        <td>Sep 24<br>Sitemap / Wireframes 2nd Draft<br>Continued Content Research &amp; Collection</td>
+        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Project Plan Final<br>Service Agreement Final<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</td>
+        <td>Sep 24<br>Visual Design: Mural.ly Inspiration Board<br>Sitemap / Wireframes 3rd Draft<br>Continued Content Research &amp; Collection</td>
     </tr>
     <tr>
         <td>5</td>
-        <td>Sep 29<br>Visual Design: Mural.ly Inspiration Board</td>
-        <td>Oct 01<br>Visual Design: Mural.ly Moodboard</td>
+        <td>Sep 29<br>Visual Design: Mural.ly Moodboard 1st Draft</td>
+        <td>Oct 01<br>Visual Design: Mural.ly Moodboard Final</td>
     </tr>
     <tr>
         <td>6</td>

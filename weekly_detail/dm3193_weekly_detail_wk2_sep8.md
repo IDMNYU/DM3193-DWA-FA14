@@ -31,7 +31,6 @@
             <ul>
             <li><a href="http://gitprint.com" target="_blank">http://gitprint.com</a></li>
             </ul>
-            <li>Discuss TA: James Crowson</li>
             <li>Review Client Website Ideas</li>
             <li>Review Quiz</li>
             </ul></td>
@@ -44,9 +43,6 @@
             <li>Discuss resources again (specifically github)</li>
             <li><a href="dm3193_weekly_detail_wk3_sep15.md">Discuss Homework for Next Class</a></li>
             <li>Review Quiz</li>
-            <li>Review Directory Structure</li>
-            <li>Review HTML5/CSS3</li>
-            <li>Review Responsive Web (if time)</li>
             <li>Ticket to Leave</li>
         </ul></td>
     </tr>

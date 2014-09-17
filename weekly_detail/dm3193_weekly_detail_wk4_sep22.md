@@ -29,13 +29,16 @@
             <li>Show &amp; Tell: Matt</li>
             <li>Discuss next class homework</li>
             <li>Review Project Plans &amp; Service Agreements</li>
+            <li>Review Frameworks</li> 
             <li>Review SASS</li> 
+            <li>Review Selected Sitemaps and Wireframes/Schematics
             <li>Ticket to Leave</li>
             </ul></td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Daryl</li>
-            <li>Review Frameworks (Bootstrap and Foundation)</li>    
+            <li>Discuss next class homework</li>
+            <li>Group Review <a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>  
             <li>Review Javascript/JQuery</li>
             <li>Ticket to Leave</li>
             </li>
@@ -49,16 +52,6 @@
             <li><a href="../resources/dm3193_ux_resources.md">Sitemap 2nd Draft</a></li>
             <li><a href="../resources/dm3193_ux_resources.md">Wireframes/Schematics 2nd Draft</a></li>
             <li>Content Research &amp; Collection</li>
-            <li>Review (i.e. do learning logs) for as many as needed based on your needs: 
-                <ul>
-                <li>HTML/CSS</li>
-                <li>HTML5/CSS3</li>
-                <li>Javascript/JQuery</li>
-                <li>The Reponsive Web (Media Queries)</li>
-                <li>Frameworks (Bootstrap and Foundation)</li>
-                <li>CSS Preprocessor: SASS</li>
-                </ul>
-            <li>If you have not done so, come to class with the name of your client and your website idea or possibilities for a client</li>
             </ul>
         </td>
         <td>

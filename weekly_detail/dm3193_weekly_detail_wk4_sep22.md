@@ -28,17 +28,17 @@
             <ul>
             <li>Show &amp; Tell: Matt</li>
             <li>Discuss next class homework</li>
-            <li>Review Project Plans &amp; Service Agreements</li>
+            <li>Discuss Selected Sitemaps and Wireframes/Schematics</li>
             <li>Review Frameworks</li> 
             <li>Review SASS</li> 
-            <li>Review Selected Sitemaps and Wireframes/Schematics
             <li>Ticket to Leave</li>
             </ul></td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Daryl</li>
             <li>Discuss next class homework</li>
-            <li>Group Review <a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>  
+            <li>Discuss Selected Project Plans &amp; Service Agreements</li>
+            <li>Group Review <a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>
             <li>Review Javascript/JQuery</li>
             <li>Ticket to Leave</li>
             </li>

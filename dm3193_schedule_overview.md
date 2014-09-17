@@ -33,9 +33,9 @@
         <td>3</td>
         <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>
         Review Quiz / Intro to Web Review continued<br>
-        Discuss selected project Plan 1st Draft<br>
-        Discuss selected service Agreement 1st Draft</a></td>
-        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Group Review: Sitemap / Wireframes 1st Draft</a></td>
+        Project Plan 1st Draft<br>
+        Service Agreement 1st Draft</a></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Sitemap / Wireframes 1st Draft</a></td>
     </tr>
     <tr>
         <td>4</td>

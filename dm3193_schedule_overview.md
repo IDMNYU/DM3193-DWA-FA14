@@ -32,15 +32,15 @@
     <tr>
         <td>3</td>
         <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 15<br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>
-        Intro to Web Review continued<br>
-        Project Plan 1st Draft<br>
-        Service Agreement 1st Draft</a></td>
-        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Intro to Web Review<br>Sitemap / Wireframes 1st Draft</a></td>
+        Review Quiz / Intro to Web Review continued<br>
+        Discuss selected project Plan 1st Draft<br>
+        Discuss selected service Agreement 1st Draft</a></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Group Review: Sitemap / Wireframes 1st Draft</a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="dm3193_weekly_detail_wk4_sep22.md">Project Plan Final<br>Service Agreement Final<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a></td>
-        <td>Sep 24<br><a href="dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Sitemap / Wireframes 3rd Draft<br>Continued Content Research &amp; Collection</a></td>
+        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Project Plan Final<br>Service Agreement Final<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a></td>
+        <td>Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Sitemap / Wireframes 3rd Draft<br>Continued Content Research &amp; Collection</a></td>
     </tr>
     <tr>
         <td>5</td>

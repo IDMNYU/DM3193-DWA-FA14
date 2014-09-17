@@ -39,9 +39,11 @@
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Arif</li>
-            <li>Review Frameworks (Bootstrap and Foundation)</li>
-            <li>Review SASS</li> 
-            <li>Review Javascript/JQuery</li>
+            <li>Review Github / Homework (Particularly Learning Logs)</li>
+            <li>Discuss next class homework</li>
+            <li>Group Review <a href="../resources/dm3193_ux_resources.md">Sitemap 1st Draft</a></li>
+            <li>Group Review <a href="../resources/dm3193_ux_resources.md">Wireframes/Schematics 1st Draft</a></li>
+            <li>(if time) Review Frameworks (Bootstrap and Foundation)</li>
             <li>Ticket to Leave</li>
             </li>
         </ul></td>

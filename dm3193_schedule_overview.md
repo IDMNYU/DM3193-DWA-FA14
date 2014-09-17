@@ -39,8 +39,8 @@
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Project Plan Final<br>Service Agreement Final<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</td>
-        <td>Sep 24<br>Visual Design: Mural.ly Inspiration Board<br>Sitemap / Wireframes 3rd Draft<br>Continued Content Research &amp; Collection</td>
+        <td>Sep 22<br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="dm3193_weekly_detail_wk4_sep22.md">Project Plan Final<br>Service Agreement Final<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a></td>
+        <td>Sep 24<br><a href="dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Sitemap / Wireframes 3rd Draft<br>Continued Content Research &amp; Collection</a></td>
     </tr>
     <tr>
         <td>5</td>

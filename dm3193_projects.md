@@ -76,7 +76,17 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 
 <tr>
     <td><strong>Learning Logs</strong><br></td>
-    <td><p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
+    <td>Review (i.e. do learning logs) for as many as needed based on your needs: 
+    <ul>
+    <li>HTML/CSS</li>
+    <li>HTML5/CSS3</li>
+    <li>Javascript/JQuery</li>
+    <li>The Reponsive Web (Media Queries)</li>
+    <li>Frameworks (Bootstrap and Foundation)</li>
+    <li>CSS Preprocessor: SASS</li>
+    <li>CMS: Wordpress, Drupal, or Ruby on Rails</li>
+    </ul>
+    <p><i>Post to basecamp with a subject of "learning log: descriptive name" and your name as the category.</i></p>
     Identify (name, URL, sections, etc.) at least one tutorial you did, and answer the following questions.
     <ul>
     <li>Instances where you achieved clarity or experienced fragments of knowledge falling into place in your learning.</li>

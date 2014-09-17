@@ -55,15 +55,6 @@
             <li><a href="../dm3193_projects.md">Learning Log - week 3</a></li>
             <li><a href="../assignments/dm3193_project_plan.md">Project Plan 1st Draft</a></li>
             <li><a href="../assignments/dm3193_service_agreements.md">Service Agreement 1st Draft</a></li>
-              <li>Review (i.e. do learning logs) for as many as needed based on your needs: 
-                <ul>
-                <li>HTML/CSS</li>
-                <li>HTML5/CSS3</li>
-                <li>Javascript/JQuery</li>
-                <li>The Reponsive Web (Media Queries)</li>
-                <li>Frameworks (Bootstrap and Foundation)</li>
-                <li>CSS Preprocessor: SASS</li>
-                </ul>
             <li>If you have not done so, come to class with the name of your client and your website idea or possibilities for a client</li>
             </ul>
         </td>

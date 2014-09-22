@@ -29,8 +29,8 @@
             <li>Show &amp; Tell: Matt</li>
             <li>Discuss next class homework</li>
             <li>Discuss Selected Sitemaps and Wireframes/Schematics</li>
-            <li>Review Frameworks</li> 
-            <li>Review SASS</li> 
+            <li><a href="../resources/dm3193_frameworks_resources.md">Review Frameworks</a></li> 
+            <li><a href="../resources/dm3193_sass_resources.md">Review SASS</a></li> 
             <li>Ticket to Leave</li>
             </ul></td>
         <td valign="top">
@@ -59,8 +59,8 @@
             <li><a href="../dm3193_projects.md">Learning Log - week 4 (if you have not done so already)</a></li>
             <li><a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>
             <li><a href="../dm3193_projects.md">Framework Clickthrough</a></li>
-             <li><a href="../assignments/dm3193_project_plan.md">Project Plan Final</a></li>
-            <li><a href="../assignments/dm3193_service_agreements.md">Service Agreement Final</a></li>
+            <li><a href="../resources/dm3193_frameworks_resources.md">Frameworks Tutorials</a></li> 
+            <li><a href="../resources/dm3193_sass_resources.md">SASS Tutorials</a></li> 
              <li>Continued Content Research &amp; Collection</li>
             </ul>
             

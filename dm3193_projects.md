@@ -65,9 +65,20 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 </tr>
 
 <tr>
+    <td><strong>Framework Clickthrough</strong></td>
+    <td>Using the framework of your choice (hopefully, either Bootstrap or Foundation) and your sitemap, create the skeleton of the directory structure of your site by creating all corresponding folders and files. At the very least there should be a persistent, main navigation (nav) on every page linking to the corresponding pages of your main nav. Every page of your site should be represented. 
+    <ul>
+    <li>There should be index.html files in every folder.</li>
+    <li>There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder.</li>
+    <li>There should be images folders as needed in each directory.</li>
+    </ul>
+    </td>
+</tr>
+
+<tr>
     <td><strong>Mural.ly Mood Board</strong></td>
     <td><p>Create your mood board using http://mural.ly.</p>
-    <p>Use the Template Mood Board (NOT the collage mood board) in the link below as a guide. The only thing that is missing from the Template Mood Board guide is the functionality or interactivity you’d like to include in your site.</p>
+    <p>Use the Template Mood Board (NOT the collage mood board) in the link below as a guide. The only thing that is missing from the Template Mood Board guide is the functionality or interactivity you’d also like to include in your site.</p>
 
 <p>http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter</p>
 

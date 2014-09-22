@@ -58,7 +58,7 @@
         <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 4 (if you have not done so already)</a></li>
             <li><a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>
-            <li><a href="../dm3193_projects.md"></a>Framework Clickthrough</li>
+            <li><a href="../dm3193_projects.md">Framework Clickthrough</a></li>
              <li><a href="../assignments/dm3193_project_plan.md">Project Plan Final</a></li>
             <li><a href="../assignments/dm3193_service_agreements.md">Service Agreement Final</a></li>
              <li>Continued Content Research &amp; Collection</li>

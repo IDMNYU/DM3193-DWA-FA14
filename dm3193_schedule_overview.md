@@ -22,12 +22,12 @@
     <tr>
         <td valign="top">1</td>
         <td valign="top"></td>
-        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk1_sep3.md" target="_blank">Sep 3<br>Overview of Course &amp; Ideation</a></td>
+        <td valign="top">Sep 3<br><a href="weekly_detail/dm3193_weekly_detail_wk1_sep3.md" target="_blank">Overview of Course &amp; Ideation</a></td>
     </tr>
     <tr>
         <td valign="top">2</td>
-        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk2_sep8.md" target="_blank">Sep 8<br>Discuss Clients / Review Quiz</a></td>
-        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk2_sep8.md" target="_blank">Sep 10<br>Review Quiz / Intro to Web Review</a></td>
+        <td valign="top">Sep 8<br><a href="weekly_detail/dm3193_weekly_detail_wk2_sep8.md" target="_blank">Discuss Clients / Review Quiz</a></td>
+        <td valign="top">Sep 10<br><a href="weekly_detail/dm3193_weekly_detail_wk2_sep8.md" target="_blank">Review Quiz / Intro to Web Review</a></td>
     </tr>
     <tr>
         <td valign="top">3</td>
@@ -35,11 +35,11 @@
         <a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Review Quiz / Intro to Web Review continued<br>
         Project Plan 1st Draft<br>
         Service Agreement 1st Draft</a><br><br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></td>
-        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Sitemap / Wireframes 1st Draft</a></td>
+        <td valign="top">Sep 17<br><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sitemap / Wireframes 1st Draft</a></td>
     </tr>
     <tr>
         <td valign="top">4</td>
-        <td valign="top">Sep 22<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a><br><br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md"></td>
+        <td valign="top">Sep 22<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a><br><br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br></td>
         <td valign="top">Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Framework clickthrough<br>Continued Content Research &amp; Collection</a></td>
     </tr>
     <tr>

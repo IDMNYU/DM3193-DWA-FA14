@@ -18,7 +18,7 @@
 * [W3schools Sass vs. Less](http://www.w3schools.eu/2012/03/sass-vs-less-vs-stylus-a-preprocessor-shootout)
 * [Lynda.com: CSS with LESS and SASS with Joe Marini] (http://www.lynda.com/CSS-tutorials/CSS-LESS-SASS/107921-2.html)
 * [Lynda.com: Responsive CSS with Sass and Compass with Ray Villalobos] (http://www.lynda.com/CSS-tutorials/Responsive-CSS-Sass-Compass/140777-2.html)
-* Lynda.com: Foundation 4: Incorporating Sass and Compass with Jen Kramer
+* **[Lynda.com: Foundation 4: Incorporating Sass and Compass with Jen Kramer]** (http://www.lynda.com/Foundation-tutorials/Goodbye/133332/149917-4.html)
 
 #### SASS Syntax highlighting in Sublime Text
 * [Install Package Manager for Sublime Text](https://sublime.wbond.net/installation)
@@ -31,16 +31,4 @@
 ####Command Line
 * Terminal for Mac (Applications -> Utilities)
 * [Git Bash Install for Windows] (https://openhatch.org/missions/windows-setup/install-git-bash” target=“_blank”>Git Bash for Windows)
-
-####INSTALLING SASS
-
-###Install Ruby First
-* Download for Windows: rubyinstaller.org
-* Mac users: you're in luck! Mac OS X comes pre-installed with Ruby. Try the following command in Terminal to make sure:
-  * ruby -v
-
-###Install Sass gem second
-* Now that Ruby is installed, we can install the Sass gem.
-* In Terminal or Git Bash:
-  * sudo gem install sass
-  * //sudo is superuser or root, use with caution
+**sass --watch scss:css**

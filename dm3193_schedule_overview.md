@@ -34,13 +34,13 @@
         <td>Sep 15<br>
         <a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Review Quiz / Intro to Web Review continued<br>
         Project Plan 1st Draft<br>
-        Service Agreement 1st Draft</a></td>
-        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Sitemap / Wireframes 1st Draft</a><br><br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></td>
+        Service Agreement 1st Draft</a><br><br><i>Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></td>
+        <td><a href="weekly_detail/dm3193_weekly_detail_wk3_sep15.md" target="_blank">Sep 17<br>Sitemap / Wireframes 1st Draft</a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a></td>
-        <td>Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Framework clickthrough<br>Continued Content Research &amp; Collection</a><br><br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md"></td>
+        <td>Sep 22<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a>br><br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md"></td>
+        <td>Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Framework clickthrough<br>Continued Content Research &amp; Collection</a><</td>
     </tr>
     <tr>
         <td>5</td>

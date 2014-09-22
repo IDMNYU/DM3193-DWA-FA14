@@ -39,8 +39,8 @@
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 22<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a>br><br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md"></td>
-        <td>Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Framework clickthrough<br>Continued Content Research &amp; Collection</a><</td>
+        <td>Sep 22<br>Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a><br><br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md"></td>
+        <td>Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Framework clickthrough<br>Continued Content Research &amp; Collection</a></td>
     </tr>
     <tr>
         <td>5</td>

@@ -28,6 +28,7 @@
             <ul>
             <li>Show &amp; Tell: Tony</li>
             <li>Discuss next class homework</li>
+            <li>Group Review: <a href="../dm3193_projects.md">Visual Design: Revised Mural.ly Inspiration Boards</a></li>
             <li>Group Review: <a href="../dm3193_projects.md">Visual Design: Mural.ly Mood Board</a></li>
             <li>Group Review: <a href="../dm3193_projects.md">Framework Clickthrough / Skeleton</a> with actual content</li>
             <li>Ticket to Leave</li>
@@ -46,8 +47,10 @@
         <td valign="top">
             <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 5</a></li>
+            <li>Revise <a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>
             <li><a href="../dm3193_projects.md">Visual Design: Mural.ly Moodboard 1st Draft</a></li>
             <li>Flesh Out Framework clickthrough with actual content</li>
+            <li><a href="../dm3193_projects.md">Reading Response:</a> Will post shortly</li>
             </ul>
         </td>
         <td>

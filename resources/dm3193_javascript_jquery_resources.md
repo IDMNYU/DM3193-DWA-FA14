@@ -15,6 +15,7 @@
 * [Mozilla Developer Network: A re-introduction to JavaScript (JS Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [A Crash Course in DOM Events](http://bitovi.com/blog/2010/10/a-crash-course-in-how-dom-events-work.html)
 * [Javascript Validator](http://www.jslint.com)
+* [Javascript CheatSheet] (http://overapi.com/javascript/)
 * [BackboneJS](http://backbonejs.org)
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
 * [Lo-dash](http://lodash.com)

@@ -40,16 +40,16 @@
     <tr>
         <td valign="top">4</td>
         <td valign="top">Sep 22<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Sitemap / Wireframes 2nd Draft<br>Content Research &amp; Collection</a><br><br><i>Last day to drop fall 2014 classes and not receive a grade of "W"</i><br></td>
-        <td valign="top">Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Framework clickthrough<br>Continued Content Research &amp; Collection</a></td>
+        <td valign="top">Sep 24<br><a href="weekly_detail/dm3193_weekly_detail_wk4_sep22.md">Visual Design: Mural.ly Inspiration Board<br>Framework Clickthrough/Skeleton<br>Continued Content Research &amp; Collection</a></td>
     </tr>
     <tr>
         <td valign="top">5</td>
-        <td valign="top">Sep 29<br>Visual Design: Mural.ly Moodboard 1st Draft</td>
-        <td valign="top">Oct 01<br>Visual Design: Mural.ly Moodboard Final</td>
+        <td valign="top">Sep 29<br><a href="weekly_detail/dm3193_weekly_detail_wk5_sep29.md">Visual Design: Mural.ly Moodboard 1st Draft</a></td>
+        <td valign="top">Oct 01<br><a href="weekly_detail/dm3193_weekly_detail_wk5_sep29.md">Visual Design: Mural.ly Moodboard Final<br>CSS Styling of Framework Clickthrough/Skeleton</a></td>
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top">Oct 06<br>Framework Production</td>
+        <td valign="top">Oct 06<br>CSS Positioning</td>
         <td valign="top">Oct 08<br>Framework Production</td>
     </tr>
     <tr>

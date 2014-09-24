@@ -71,6 +71,7 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
     <li>There should be index.html files in every folder.</li>
     <li>There should be at least css, js, and images folders in the root directory. Optionally, a scss or sass folder.</li>
     <li>There should be images folders as needed in each directory.</li>
+    <li>You should commit to github.</li>
     </ul>
     </td>
 </tr>
@@ -82,7 +83,7 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 
 <p>http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter</p>
 
-<p>Or, alternatively, you can create your mood board in Photoshop.</p></td>
+<p>Or, alternatively, you can create your mood board in Photoshop. If you do, post a png to basecamp.</p></td>
 </tr>
 
 <tr>

@@ -19,7 +19,7 @@
     <tr>
         <td valign="top" width="4%">5</td>
         <td valign="top" width="48%"><strong>Sep 29</strong></td>
-        <td valign="top" width="48%"><strong>Oct. 1</strong></td>
+        <td valign="top" width="48%"><strong>Oct 1</strong></td>
     </tr>
 
     <tr>
@@ -28,15 +28,15 @@
             <ul>
             <li>Show &amp; Tell: Tony</li>
             <li>Discuss next class homework</li>
-            <li>Group Review <a href="../dm3193_projects.md">Visual Design: Mural.ly Mood Board</a></li>
-            <li>Group Review <a href="../dm3193_projects.md">Framework Clickthrough</a></li>
+            <li>Group Review: <a href="../dm3193_projects.md">Visual Design: Mural.ly Mood Board</a></li>
+            <li>Group Review: <a href="../dm3193_projects.md">Framework Clickthrough / Skeleton</a> with actual content</li>
             <li>Ticket to Leave</li>
             </ul></td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Stanford</li>
             <li>Discuss next class homework</li>
-            <li>Group Review CSS Styling applied to clickthrough/skeleton</a></li>
+            <li>Group Review: CSS Styling applied to Framework Clickthrough/skeleton</a></li>
             <li>Ticket to Leave</li>
             </li>
         </ul></td>
@@ -55,7 +55,6 @@
             <li><a href="../dm3193_projects.md">Learning Log - week 5 (if you have not done so already)</a></li>
             <li><a href="../dm3193_projects.md">Visual Design: Mural.ly Moodboard Final</a></li>
             <li>CSS Styling applied to clickthrough/skeleton reflecting Mural.ly Moodbard</li> 
-             <li>Continued Content Research &amp; Collection</li>
             </ul>
             
         </td>

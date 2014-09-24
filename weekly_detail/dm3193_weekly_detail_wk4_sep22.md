@@ -37,9 +37,8 @@
             <ul>
             <li>Show &amp; Tell: Daryl</li>
             <li>Discuss next class homework</li>
-            <li>Discuss Selected Project Plans &amp; Service Agreements</li>
-            <li>Group Review <a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>
-            <li>Review Javascript/JQuery</li>
+            <li>Group Review: <a href="../dm3193_projects.md">Visual Design - Mural.ly Inspiration Board</a></li>
+            <li>Group Review: <a href="../dm3193_projects.md">Framework Clickthrough / Skeleton</a></li>
             <li>Ticket to Leave</li>
             </li>
         </ul></td>
@@ -58,7 +57,7 @@
         <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 4 (if you have not done so already)</a></li>
             <li><a href="../dm3193_projects.md">Visual Design: Mural.ly Inspiration Board</a></li>
-            <li><a href="../dm3193_projects.md">Framework Clickthrough</a></li>
+            <li><a href="../dm3193_projects.md">Framework Clickthrough / Skeleton</a></li>
             <li><a href="../resources/dm3193_frameworks_resources.md">Frameworks Tutorials</a></li> 
             <li><a href="../resources/dm3193_sass_resources.md">SASS Tutorials</a></li> 
              <li>Continued Content Research &amp; Collection</li>

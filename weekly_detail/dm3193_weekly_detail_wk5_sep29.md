@@ -37,7 +37,7 @@
             <ul>
             <li>Show &amp; Tell: Stanford</li>
             <li>Discuss next class homework</li>
-            <li>Group Review: Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) Clickthrough / Skeleton</a></li>
+            <li>Group Review: Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) to your Clickthrough / Skeleton</a></li>
             <li>Ticket to Leave</li>
             </li>
         </ul></td>
@@ -60,7 +60,7 @@
         <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 5 (if you have not done so already)</a></li>
             <li><a href="../dm3193_projects.md">Visual Design: Mural.ly Moodboard Final</a></li>
-            <li>Apply Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) Clickthrough / Skeleton</li>
+            <li>Apply Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) to your Clickthrough / Skeleton</li>
             <li><a href="../dm3193_projects.md">Reading Response</a> to the following article:</li>
                 <ul>
                 <li><a href="http://www.lukew.com/ff/entry.asp?981" target="_blank">Visible Narratives: Understanding Visual Organization by Luke Wroblewski</a></li>

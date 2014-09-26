@@ -65,6 +65,7 @@
 #### CSS & CSS3 Resources
 * Book: [CSS3 for Web Designers by Dan Cederholm](http://www.abookapart.com/products/css3-for-web-designers)
 * **[Learn CSS Layout] (http://learnlayout.com)** 
+* [Smashing Magazine's CSS Cheat Sheet] (http://coding.smashingmagazine.com/wp-content/uploads/images/css3-cheat-sheet/css3-cheat-sheet.pdf)
 * [CSS Validator](http://jigsaw.w3.org/css-validator)
 
 #### Browser Compatibility

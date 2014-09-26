@@ -61,6 +61,9 @@ by Jason Beaird *
 * [My Fonts](http://www.myfonts.com)
 * [What The Font](http://www.myfonts.com/WhatTheFont)
 
+#### Visual Hierarchy
+* [Visible Narratives: Understanding Visual Organization by Luke Wroblewski] (http://www.lukew.com/ff/entry.asp?981)
+
 
 
 

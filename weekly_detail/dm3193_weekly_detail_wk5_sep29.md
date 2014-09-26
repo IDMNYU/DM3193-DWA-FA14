@@ -30,14 +30,14 @@
             <li>Discuss next class homework</li>
             <li>Group Review: <a href="../dm3193_projects.md">Visual Design: Revised Mural.ly Inspiration Boards</a></li>
             <li>Group Review: <a href="../dm3193_projects.md">Visual Design: Mural.ly Mood Board</a></li>
-            <li>Group Review: <a href="../dm3193_projects.md">Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) Clickthrough / Skeleton</a></li>
+            <li>Group Review: <a href="../dm3193_projects.md">Framework Clickthrough / Skeleton</a> with actual content</li>
             <li>Ticket to Leave</li>
             </ul></td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Stanford</li>
             <li>Discuss next class homework</li>
-            <li>Group Review: CSS Styling applied to Framework Clickthrough/skeleton</a></li>
+            <li>Group Review: Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) Clickthrough / Skeleton</a></li>
             <li>Ticket to Leave</li>
             </li>
         </ul></td>

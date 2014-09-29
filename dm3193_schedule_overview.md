@@ -45,11 +45,11 @@
     <tr>
         <td valign="top">5</td>
         <td valign="top">Sep 29<br><a href="weekly_detail/dm3193_weekly_detail_wk5_sep29.md">Visual Design: Mural.ly Moodboard 1st Draft</a></td>
-        <td valign="top">Oct 01<br><a href="weekly_detail/dm3193_weekly_detail_wk5_sep29.md">Visual Design: Mural.ly Moodboard Final<br>CSS Styling of Framework Clickthrough/Skeleton</a></td>
+        <td valign="top">Oct 01<br><a href="weekly_detail/dm3193_weekly_detail_wk5_sep29.md">Visual Design: Mural.ly Moodboard Final<br>HTML/CSS Wireframes (CSS Styling using Grayscale (including B & W)) and Layout (CSS Positioning)) to your Clickthrough / </a></td>
     </tr>
     <tr>
         <td valign="top">6</td>
-        <td valign="top">Oct 06<br>CSS Positioning</td>
+        <td valign="top">Oct 06<br>CSS Styling Using Color</td>
         <td valign="top">Oct 08<br>Framework Production</td>
     </tr>
     <tr>

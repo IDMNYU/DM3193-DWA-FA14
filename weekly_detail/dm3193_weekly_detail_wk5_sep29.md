@@ -37,7 +37,7 @@
             <ul>
             <li>Show &amp; Tell: Stanford</li>
             <li>Discuss next class homework</li>
-            <li>Group Review: Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) to your Clickthrough / Skeleton</a></li>
+            <li>Group Review: HTML/CSS Wireframes (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) to your Clickthrough / Skeleton)</a></li>
             <li>Ticket to Leave</li>
             </li>
         </ul></td>

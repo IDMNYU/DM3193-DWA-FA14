@@ -60,6 +60,7 @@
         <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 5 (if you have not done so already)</a></li>
             <li><a href="../dm3193_projects.md">Visual Design: Mural.ly Moodboard Final</a></li>
+            <li><strong>Continue to Flesh Out Framework clickthrough with actual content</strong></li>
             <li>Apply Visual Hierarchy (CSS Styling using Grayscale (including B &amp; W)) and Layout (CSS Positioning) to your Clickthrough / Skeleton</li>
             <li><a href="../dm3193_projects.md">Reading Response</a> to the following article:</li>
                 <ul>

@@ -26,7 +26,7 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
-            <li>Show &amp; Tell:</li>
+            <li>Show &amp; Tell: Nancy</li>
             <li>Respond to select tickets to leave</li>
             <li>Discuss next class homework</li>
             <li>Homework Group Review</li>
@@ -34,7 +34,7 @@
             </ul></td>
         <td valign="top">
             <ul>
-            <li>Show &amp; Tell: </li>
+            <li>Show &amp; Tell: Aleksandr</li>
             <li>Discuss next class homework</li>
             <li>Homework Group Review</li>
             <li>Ticket to Leave</li>

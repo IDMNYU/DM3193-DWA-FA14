@@ -48,7 +48,7 @@
         <td valign="top">Oct 01<br><a href="weekly_detail/dm3193_weekly_detail_wk5_sep29.md">Visual Design: Mural.ly Moodboard Final<br>HTML/CSS Wireframes (CSS Styling using Grayscale (including B & W)) and Layout (CSS Positioning)) to your Clickthrough / </a></td>
     </tr>
     <tr>
-        <td valign="top">6</td>
+        <td valign="top">6 </td>
         <td valign="top">Oct 06<br><a href="weekly_detail/dm3193_weekly_detail_wk5_oct06.md">CSS Styling Using Color</a></td>
         <td valign="top">Oct 08<br><a href="weekly_detail/dm3193_weekly_detail_wk5_oct06.md">Framework Production</a></td>
     </tr>

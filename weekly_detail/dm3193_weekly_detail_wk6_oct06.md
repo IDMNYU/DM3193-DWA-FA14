@@ -46,7 +46,7 @@
         <td valign="top">
             <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 6</a></li>
-            <li>CSS Stying Using Color</li>
+            <li>CSS Styling Using Color</li>
             </ul>
         </td>
         <td>

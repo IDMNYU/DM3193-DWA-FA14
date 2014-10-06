@@ -26,8 +26,14 @@
         <td valign="top">class</td>
         <td valign="top">
             <ul>
+            <li>Document Mural.ly ASAP (by taking screenshots or saving web page as PDF)</li>
+            <li>Discuss Reading, Visible Narratives: Understanding Visual Organization</li>
+                <ul>
+                <li>Developer/Designer Hybrid</li>
+                <li>Gestalt Theory</li>
+                </ul>
             <li>Show &amp; Tell: Nancy</li>
-            <li>Respond to select tickets to leave</li>
+            <li>Review Class Projects and Resources</li>
             <li>Discuss next class homework</li>
             <li>Homework Group Review</li>
             <li>Ticket to Leave</li>

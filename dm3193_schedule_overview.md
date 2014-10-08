@@ -49,8 +49,8 @@
     </tr>
     <tr>
         <td valign="top">6 </td>
-        <td valign="top">Oct 06<br><a href="weekly_detail/dm3193_weekly_detail_wk5_oct06.md">CSS Styling Using Color</a></td>
-        <td valign="top">Oct 08<br><a href="weekly_detail/dm3193_weekly_detail_wk5_oct06.md">Framework Production</a></td>
+        <td valign="top">Oct 06<br><a href="weekly_detail/dm3193_weekly_detail_wk6_oct06.md">CSS Styling Using Color</a></td>
+        <td valign="top">Oct 08<br><a href="weekly_detail/dm3193_weekly_detail_wk6_oct06.md">Framework Production</a></td>
     </tr>
     <tr>
         <td valign="top">7</td>

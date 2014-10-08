@@ -55,7 +55,7 @@
     <tr>
         <td valign="top">7</td>
         <td valign="top">Oct 13<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
-        <td valign="top">Oct 15<br>Framework Production</td>
+        <td valign="top">Oct 15<br><a href="weekly_detail/dm3193_weekly_detail_wk7_oct13.md">Framework Production</a></td>
     </tr>
     <tr>
         <td valign="top">8</td>

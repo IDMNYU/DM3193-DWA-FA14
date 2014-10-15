@@ -59,8 +59,8 @@
     </tr>
     <tr>
         <td valign="top">8</td>
-        <td valign="top">Oct 20<br>Framework Production</td>
-        <td valign="top">Oct 22<br><strong>Midterm Project DUE: HTML5/CSS3/Responsive Website</strong></td>
+        <td valign="top">Oct 20<br><a href="weekly_detail/dm3193_weekly_detail_wk8_oct20.md">Framework Production</a></td>
+        <td valign="top">Oct 22<br><a href="weekly_detail/dm3193_weekly_detail_wk8_oct20.md"><strong>Midterm Project DUE: HTML5/CSS3/Responsive Website</strong></a></td>
     </tr>
     <tr>
         <td valign="top">9</td>

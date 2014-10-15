@@ -60,7 +60,7 @@
     <tr>
         <td valign="top">8</td>
         <td valign="top">Oct 20<br><a href="weekly_detail/dm3193_weekly_detail_wk8_oct20.md">Framework Production</a></td>
-        <td valign="top">Oct 22<br><a href="weekly_detail/dm3193_weekly_detail_wk8_oct20.md"><strong>Midterm Project DUE: HTML5/CSS3/Responsive Website<br>Midterm Rubric DUE</strong></a></td>
+        <td valign="top">Oct 22<br><a href="weekly_detail/dm3193_weekly_detail_wk8_oct20.md"><strong>Midterm Project DUE: HTML5/CSS3/Responsive Website</a><br>Midterm Rubric DUE</strong></td>
     </tr>
     <tr>
         <td valign="top">9</td>

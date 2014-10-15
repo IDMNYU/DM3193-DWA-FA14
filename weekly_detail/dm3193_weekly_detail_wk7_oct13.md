@@ -24,7 +24,7 @@
 
     <tr>
         <td valign="top">class</td>
-        <td valign="top">NO ClASS: NYU Fall Break</td>
+        <td valign="top">NO CLASS: NYU Fall Break</td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Carlos</li>

@@ -30,7 +30,7 @@
             </ul></td>
         <td valign="top">
             <ul>
-            <li>Midterm Project DUE: HTML5/CSS3/Responsive Website</li>
+            <li><a href="../dm3193_projects.md">Midterm Project DUE: HTML5/CSS3/Responsive Website</a></li>
             <li>Midterm Class Critique (Attendance Mandatory... Consult Syllabus)</li>
             </li>
         </ul></td>
@@ -44,7 +44,7 @@
         <td>
             <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 8 (if you have not done so already)</a></li>
-            <li>Finalize Midterm Project: HTML5/CSS3/Responsive Website</li>
+            <li>Finalize <a href="../dm3193_projects.md">Midterm Project: HTML5/CSS3/Responsive Website</a></li>
             </ul>
         </td>
     </tr>

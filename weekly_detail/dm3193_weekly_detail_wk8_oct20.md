@@ -31,6 +31,7 @@
         <td valign="top">
             <ul>
             <li><a href="../dm3193_projects.md">Midterm Project DUE: HTML5/CSS3/Responsive Website</a></li>
+            <li>Midterm Rubric DUE</li>
             <li>Midterm Class Critique (Attendance Mandatory... Consult Syllabus)</li>
             </li>
         </ul></td>

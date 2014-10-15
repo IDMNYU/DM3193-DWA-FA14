@@ -28,7 +28,9 @@
         <td valign="top">
             <ul>
             <li>Show &amp; Tell: Carlos</li>
-            <li>Discuss next class homework</li>
+            <li>Discuss Midterm</li>
+            <li>Discuss Self-Evaluation</li>
+            <li>Discuss Website Rubric</li>
             <li>Homework Group Review</li>
             <li>Ticket to Leave</li>
             </li>

@@ -64,7 +64,7 @@
     </tr>
     <tr>
         <td valign="top">9</td>
-        <td valign="top">Oct 27<br><strong>Midterm Self-Assessments<br>Individual One on Ones</strong></td>
+        <td valign="top">Oct 27<br><strong>Midterm Self-Evaluation DUE<br>Individual One on Ones</strong></td>
         <td valign="top">Oct 29<br>CMS: Research &amp; Deploy Theme</td>
     </tr>
     <tr>

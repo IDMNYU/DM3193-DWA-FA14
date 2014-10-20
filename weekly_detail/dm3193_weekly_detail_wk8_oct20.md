@@ -32,7 +32,7 @@
         <td valign="top">
             <ul>
             <li><a href="../dm3193_projects.md">Midterm Project DUE: HTML5/CSS3/Responsive Website</a></li>
-            <li>Midterm Rubric DUE</li>
+            <li><a href="https://polishedsolid.basecamphq.com/projects/12353078/file/193376699/DM%203193%20DWA%20Midterm%20Rubric.pdf" target="_blank">Midterm Rubric DUE</a></li>
             <li>Midterm Class Critique (Attendance Mandatory... <a href="../dm3193_syllabus.md">Consult Syllabus</a>)</li>
             </li>
         </ul></td>

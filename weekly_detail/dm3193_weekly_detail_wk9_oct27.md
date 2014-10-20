@@ -24,7 +24,7 @@
 
     <tr>
         <td valign="top">class</td>
-        <td valign="top"><p><strong>NO Class/ Individual One on Ones Instead</strong><br>Don't forget to email your self-reflection questions to my NYU email and bring the Self-Evaluation Rubric Packet with you.</p>
+        <td valign="top"><p><strong>NO Class/ Individual One on Ones Instead</strong><br>Don't forget to email your self-reflection questions to my NYU email and bring the <a href="https://polishedsolid.basecamphq.com/projects/12353078/file/193376698/DM%203193%20DWA%20Midterm%20Self%20Reflection.pdf" target="_blank">Self-Evaluation Rubric Packet</a> including the <a href="https://polishedsolid.basecamphq.com/projects/12353078/file/193376700/DM%203193%20DWA%20Midterm%20Self%20Reflection%20ADDENDUM.pdf" target="_blank">Addendum</a> with you.</p>
         <ul> 
             <li>10:00am Arif</li>
             <li>10:30am Isaac</li> 

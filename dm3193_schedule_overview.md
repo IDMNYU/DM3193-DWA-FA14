@@ -64,8 +64,8 @@
     </tr>
     <tr>
         <td valign="top">9</td>
-        <td valign="top">Oct 27<br><strong>Midterm Self-Evaluation DUE<br>Individual One on Ones</strong></td>
-        <td valign="top">Oct 29<br>CMS: Research &amp; Deploy Theme</td>
+        <td valign="top">Oct 27<br><a href="weekly_detail/dm3193_weekly_detail_wk9_oct27.md"><strong>Midterm Self-Evaluation DUE<br>Individual One on Ones</strong></a></td>
+        <td valign="top">Oct 29<br><a href="weekly_detail/dm3193_weekly_detail_wk9_oct27.md">Wordpress and PHP Overview<br>CMS: Research &amp; Deploy Theme</a></td>
     </tr>
     <tr>
         <td valign="top">10</td>

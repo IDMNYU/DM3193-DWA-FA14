@@ -10,6 +10,7 @@
 ## FRAMEWORK RESOURCES
 
 #### Framework Resources (Bootstrap vs. Foundation)
+* [Responsive Design Frameworks: Just Because You Can, Should You?] (http://www.smashingmagazine.com/2014/02/19/responsive-design-frameworks-just-because-you-can-should-you)
 * [Top 5 core differences between Bootstrap and Foundation](https://medium.com/@felippenardi/top-5-core-differences-between-bootstrap-3-and-foundation-5-8b3812c7007c)
 * [Responsive CSS Framework Comparison](http://responsive.vermilion.com/compare.php?framework=current)
 * [Learnable – Bootstrap vs. Foundation Video](https://learnable.com/jumpcasts/bootstrap-vs-foundation-68/video)

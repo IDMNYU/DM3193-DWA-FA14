@@ -24,7 +24,7 @@
 
     <tr>
         <td valign="top">class</td>
-        <td valign="top"><p><strong>NO Class/ Individual One on Ones Instead</strong></p>
+        <td valign="top"><p><strong>NO Class/ Individual One on Ones Instead</strong><br>Don't forget to email your self-reflection questions to my NYU email and bring the Self-Evaluation Rubric Packet with you.</p>
         <ul> 
             <li>10:00am Arif</li>
             <li>10:30am Isaac</li> 
@@ -35,14 +35,14 @@
             <li>3:30pm Tony</li>
             <li>4:00pm Matt</li>
             <li>4:30pm Rakinur</li>
-            <li>5:00pm Daryl<li>
+            <li>5:00pm Daryl</li>
             <li>5:30pm Alex</li>
             <li>6:00pm Max</li>
             </ul></td>
         <td valign="top">
             <ul>
             <li>Show &amp; Tells: Max &amp; Rakinur</li>
-            <li><a href="../resources/dm3193_wordpress_resources.md" target="_blank">Wordpress Overview</a></li>
+            <li><a href="../resources/dm3193_wordpress_resources.md">Wordpress</a> and <a href="../resources/dm3193_drupal_resources.md">Drupal</a> Overview</li>
             </li>
         </ul></td>
     </tr>
@@ -50,12 +50,17 @@
         <td valign="top">do</td>
         <td valign="top"><ul>
         <li><a href="../dm3193_projects.md">Learning Log - week 9</a></li>
-        <li><a href="../dm3193_projects.md">Final Project: Migrate Your Website to a Content Management System of Your Choice</a></li>
+        <li><a href="../dm3193_projects.md">Reading Response</a> for <a href="http://www.smashingmagazine.com/2011/11/29/wordpress-cms-crown-drupal-joomla/" target="_blank">smashingmagazine.com: How WordPress Took The CMS Crown From Drupal And Joomla</a></li>
+        <li><a href="../dm3193_projects.md">Reading Response</a> for <a href="http://www.bigtunainteractive.com/wordpress-vs-drupal" target="_blank">bigtunainteractive.com: drupal vs. wordpress</a></li>
+        <li>Research <a href="../resources/dm3193_wordpress_resources.md">Wordpress</a> vs. <a href="../resources/dm3193_drupal_resources.md">Drupal</a></li>
         </ul>  </td>
         <td>
             <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 9 (if you have not done so already)</a></li>
-            <li><a href="../dm3193_projects.md">Final Project: Migrate Your Website to a Content Management System of Your Choice</a></li>
+            <li><a href="../dm3193_projects.md">Reading Response</a> for <a href="http://wpml.org/2013/11/drupal-developers-make-x10-wordpress-developers/" target="_blank">Why Drupal Developers Make x10 More than WordPress Developers</a></li>
+            <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS</li>
+            </li>
+            <li>Be </li>
             </ul>
         </td>
     </tr>

@@ -41,7 +41,8 @@ by Jason Beaird *
 * [ColorZilla](http://www.colorzilla.com)
 * [ColorZilla’s Gradient Editor](http://www.colorzilla.com/gradient-editor)
 * http://0to255.com
-* https://kuler.adobe.com/explore 
+* https://kuler.adobe.com/explore
+* [The Psychology of Color in Marketing and Branding] (http://www.entrepreneur.com/article/233843)
 
 #### Grid Systems
 * http://www.thegridsystem.org 

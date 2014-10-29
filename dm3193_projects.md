@@ -220,7 +220,7 @@ PDF Contents:
   <li> Tech &amp; Functionality Specifications</li>
   <li> Screenshots</li>
   </ul>
-<li> Wordpress, Drupal, or Ruby on Rails</li>
+<li> Wordpress, Drupal, Ruby on Rails, (or your chosen CMS if discussed with professor)</li>
   <ul>
   <li> (Optional Revised) Sitemap</li>
   <li> (Optional Revised) Wireframes or Schematics</li>

@@ -9,10 +9,11 @@
 
 ##  MAMP & WAMP RESOURCES
 
-#### MAMP/WAMP
+#### MAMP/WAMP/LAMP
 
 * [MAMP] (http://www.mamp.info/en)
 * [WAMP] (http://www.wampserver.com/en)
+* [LAMP] ()
 * [Smashing Magazine: Developing Wordpress Locally with MAMP] (http://wp.smashingmagazine.com/2011/09/28/developing-wordpress-locally-with-mamp)
 * [css-tricks.com (Chris Coyier) #87: Moving Up with MAMP ] (http://css-tricks.com/video-screencasts/87-moving-up-with-mamp)
 * [Moving Wordpress - Localhost to Live] (http://www.pryde-design.co.uk/2010/06/moving-wordpress-localhost-to-live)
@@ -20,3 +21,7 @@
 * lynda.com: Installing and Running WordPress: MAMP with Morten Rand-Hendriksen
 * and a gazillion others on <a href="http://www.lynda.com/search?q=wordpress" target="_blank">lynda.com</a>
 
+
+#### MAMP/WAMP ALTERNATIVE
+* [VAGRANT] (https://www.vagrantup.com)
+* [VAGRANTPRESS] (http://vagrantpress.org/)

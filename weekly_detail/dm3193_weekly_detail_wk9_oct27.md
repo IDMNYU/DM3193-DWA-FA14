@@ -44,7 +44,7 @@
             <ul>
             <li>Show &amp; Tells: Max &amp; Rakinur</li>
             <li><a href="../resources/dm3193_mamp_wamp_resources.md">MAMP/LAMP/WAMP Overview</a></li>
-            <li>PHP Overview</li>
+            <li><a href="../resources/dm3193_php_resources.md">PHP Overview</a></li>
             <li><a href="../resources/dm3193_wordpress_resources.md">Wordpress</a> Overview</li>
             <li><a href="../resources/dm3193_drupal_resources.md">Drupal</a> Overview</li>
         </ul></td>

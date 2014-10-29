@@ -39,6 +39,7 @@
         <ul>
         <li><a href="../dm3193_projects.md">Learning Log - week 10</a></li>
         <li>Some of you need to resolve your visual interfaces before moving forward with CMS integration.</li>
+        <li>Get wordpress installed on the server of your choice. If you are using sites.bxmc.poly.edu, make an appointment with Elton, eltonkwok@nyu.edu, to get another installation of wordpress in a different directory if you already have one.
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
         <li>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
         <li>CMS: Research &amp; Deploy Theme</li>

@@ -40,6 +40,8 @@
         <li><a href="../dm3193_projects.md">Learning Log - week 10</a></li>
         <li>Some of you need to resolve your visual interfaces before moving forward with CMS integration.</li>
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
+        <li>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
+        <li>CMS: Research &amp; Deploy Theme</li>
         </ul></td>
         <td>
             <ul>
@@ -47,7 +49,8 @@
            
             <li>Some of you need to resolve your visual interfaces before moving forward with CMS integration.</li>
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
-            
+        <li>CMS: Continue to Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
+        <li>CMS: Research &amp; Deploy Child Theme</li>
             </ul>
         </td>
     </tr>

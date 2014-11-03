@@ -24,8 +24,7 @@
 
     <tr>
         <td valign="top">class</td>
-        <td valign="top"><p><strong>NO Class/ Individual One on Ones Instead</strong><br>
-        <ul>
+        <td valign="top"><ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tells:</a> Isaac &amp; Arif</li>
         </ul></td>
         <td valign="top">

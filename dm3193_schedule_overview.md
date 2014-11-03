@@ -69,8 +69,8 @@
     </tr>
     <tr>
         <td valign="top">10</td>
-        <td valign="top">Nov 3<br><i>Last Day to Withdraw</i><br><a href="dm3193_weekly_detail_wk10_nov3.md">CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)<br>CMS: Research &amp; Deploy Theme</a></td>
-        <td valign="top">Nov 5<br><a href="dm3193_weekly_detail_wk10_nov3.md">CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)<br>CMS: Create Child Theme for WordPress</a></td>
+        <td valign="top">Nov 3<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md">CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)<br>CMS: Research &amp; Deploy Theme</a></td>
+        <td valign="top">Nov 5<br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md">CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)<br>CMS: Create Child Theme for WordPress</a></td>
     </tr>
     <tr>
         <td valign="top">11</td>

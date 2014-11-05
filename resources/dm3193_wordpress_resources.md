@@ -91,7 +91,7 @@ I am listing only a very few (of a gazillion) below:
 
 #### Premium Themes
 * [graphpaperpress] (http://graphpaperpress.com)
-* [Elegant Themes] (http://eleganthemes.com)
+* [Elegant Themes] (http://elegantthemes.com)
 * [Themify.Me] (http://themify.me)
 * [Theme Forest] (http://themeforest.net)
   * Theme Options

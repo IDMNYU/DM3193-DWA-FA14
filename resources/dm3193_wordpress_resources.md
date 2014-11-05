@@ -83,14 +83,15 @@ I am listing only a very few (of a gazillion) below:
 [Digging Into Wordpress (DIW)] (http://digwp.com)
 * core pages etc. - DIW p. 33
 
-[A Guide to The Options for Wordpress Theme Development] (http://wp.smashingmagazine.com/2013/03/13/guide-wordpress-theme-options)
+[Smashing Magazine: A Guide to The Options for Wordpress Theme Development] (http://www.smashingmagazine.com/2013/03/13/a-guide-to-wordpress-theme-options/)
 
-[Anatomy of a Wordpress Theme] (http://yoast.com/wordpress-theme-anatomy)
+[Yoast: Anatomy of a Wordpress Theme] (http://yoast.com/wordpress-theme-anatomy)
 
-[Complete Wordpress Theme Guide] (http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide)
+[Webdesignerwall.com: Complete Wordpress Theme Guide] (http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide)
 
 #### Premium Themes
 * [graphpaperpress] (http://graphpaperpress.com)
+* [Elegant Themes] (http://eleganthemes.com)
 * [Themify.Me] (http://themify.me)
 * [Theme Forest] (http://themeforest.net)
   * Theme Options
@@ -100,24 +101,24 @@ I am listing only a very few (of a gazillion) below:
 * 8 Best Wordpress Starter Theme to CreateYour Own Wordpress Template
 * http://masterblogster.com/8-best-wordpress-starter-themes-create-wordpress-theme/
 * Twenty Twelve Responsive (wordpress.org)
-* Bones - http://themble.com/bones/ (Based on HTML5 Boilerplate)
-* underscores.me - http://underscores.me/ (totally blank based on Toolbox)
+* **Bones - http://themble.com/bones/** (Based on HTML5 Boilerplate)
+* **underscores.me - http://underscores.me/** (totally blank based on Toolbox)
 * http://themeshaper.com/2012/02/13/introducing-the-underscores-theme/?relatedposts_exclude=3148
 * HTML5 Reset Wordpress Theme https://github.com/murtaugh/HTML5-Reset-WordPress-Theme (also totally blank based on Digging Into Wordpress (DIW))
 * Whiteboard - http://whiteboardframework.com/
 * Reverie - http://themefortress.com/reverie/ (Based on Foundation)
 * Presswork - http://presswork.me/
 * Themify Basics - http://themify.me/themes/basic
-* BootstrapWP - http://bootstrapwp.rachelbaker.me/
+* **BootstrapWP - http://bootstrapwp.rachelbaker.me/**
 * WP-Bootstrap http://320press.com/wpbs/
 * WP-Foundation http://320press.com/wp-foundation/
 * Skeleton http://themes.simplethemes.com/skeleton/
 * Super Skeleton - http://super-skeleton.mdnw.net/ (Fully Responsive / Touch)
 * required+ - http://themes.required.ch/ (based on foundation)
-* Boilerplate http://wordpress.org/themes/boilerplate (based on HTML5 Boilerplate)
+
 
 [Roots] (http://roots.io) 
-* Based on Bootstrap, but also requires grunt installation, javascript task runner)
+* Based on Bootstrap, but also requires grunt installation, javascript task runner
 
 Thematic & Genesis?
 

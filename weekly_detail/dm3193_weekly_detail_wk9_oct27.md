@@ -60,9 +60,9 @@
         <td>
             <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 9 (if you have not done so already)</a></li>
+            <li>Install your chosen CMS on a local or remote server</li>
             <li><a href="../dm3193_projects.md">Reading Response</a> for <a href="http://wpml.org/2013/11/drupal-developers-make-x10-wordpress-developers/" target="_blank">Why Drupal Developers Make x10 More than WordPress Developers</a></li>
             <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
-            </li>
             <li>Some of you need to resolve your visual interfaces before moving forward with CMS integration.</li>
             </ul>
         </td>

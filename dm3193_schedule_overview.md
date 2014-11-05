@@ -65,22 +65,22 @@
     <tr>
         <td valign="top">9</td>
         <td valign="top">Oct 27<br><a href="weekly_detail/dm3193_weekly_detail_wk9_oct27.md"><strong>Midterm Self-Evaluation DUE<br>Individual One on Ones</strong></a></td>
-        <td valign="top">Oct 29<br><a href="weekly_detail/dm3193_weekly_detail_wk9_oct27.md">Wordpress and Drupal Overview<br>PHP Overview<br>CMS: Research &amp; Deploy Theme</a></td>
+        <td valign="top">Oct 29<br><a href="weekly_detail/dm3193_weekly_detail_wk9_oct27.md">Wordpress and Drupal Overview<br>PHP Overview<br>CMS: Install your chosen CMS on a local or remote server</a></td>
     </tr>
     <tr>
         <td valign="top">10</td>
-        <td valign="top">Nov 3<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md">CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)<br>CMS: Research &amp; Deploy Theme</a></td>
-        <td valign="top">Nov 5<br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md">CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)<br>CMS: Create Child Theme for WordPress</a></td>
+        <td valign="top">Nov 3<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md"><br>CMS: Research &amp; Deploy Theme</a></td>
+        <td valign="top">Nov 5<br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md">CMS: Create Child Theme for WordPress</a></td>
     </tr>
     <tr>
         <td valign="top">11</td>
-        <td valign="top">Nov 10<br>CMS: Theme Modification</td>
-        <td valign="top">Nov 12<br>CMS: Theme Modification</td>
+        <td valign="top">Nov 10<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Populate Content (text and media)</td>
+        <td valign="top">Nov 12<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Research &amp; Deploy Plugins & Widgets (Wordpress) or Modules (Drupal</a></td>
     </tr>
     <tr>
         <td valign="top">12</td>
-        <td valign="top">Nov 17<br>CMS: Theme Modification</td>
-        <td valign="top">Nov 19<br>CMS: Debug Theme Modification</td>
+        <td valign="top">Nov 17<br>CMS: CSS Formatting</td>
+        <td valign="top">Nov 19<br>CMS: CSS Positioning, Custom Fields, or Custom PHP Templates</td>
     </tr>
     <tr>
         <td valign="top">13</td>

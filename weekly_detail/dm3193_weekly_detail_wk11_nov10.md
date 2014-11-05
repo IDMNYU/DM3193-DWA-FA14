@@ -31,6 +31,7 @@
         <td valign="top">
             <ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tell:</a> Tony</li>
+            <li>Review Student Plugin or Module Selection</li>
         </ul></td>
     </tr>
     <tr>
@@ -43,12 +44,12 @@
         <li>Read: <a href="http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide" target="_blank">Complete Wordpress Theme Guide</a>
         <li>CMS: Populate Content (text and media) as posts or pages, tag and categorize, in Wordpress or choose Content Type in Drupal</li>
         <li>CMS: Create Navigation and Basic Clickthrough (in Wordpress (Appearance -> Menus) and <a href="https://www.drupal.org/documentation/modules/menu" target="_blank">Drupal</a>)
-        <li>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
+        
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li></ul></td>
         <td>
             <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 11 (if you have not done so already)</a></li>   
-            <li>Some of you need to resolve your visual interfaces before moving forward with CMS integration.</li>
+            <li>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
             </ul>
         </td>

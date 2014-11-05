@@ -75,7 +75,7 @@
     <tr>
         <td valign="top">11</td>
         <td valign="top">Nov 10<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Populate Content (text and media)<br>CMS: Create Navigation and Basic Clickthrough</td>
-        <td valign="top">Nov 12<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Research &amp; Deploy Plugins & Widgets (Wordpress) or Modules (Drupal</a></td>
+        <td valign="top">Nov 12<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Research &amp; Deploy Plugins & Widgets (Wordpress) or Modules (Drupal)</a></td>
     </tr>
     <tr>
         <td valign="top">12</td>

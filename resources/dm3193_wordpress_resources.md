@@ -148,6 +148,7 @@ Thematic & Genesis?
 * **http://www.elegantthemes.com/blog/tips-tricks/how-to-create-wordpress-custom-fields**
 * http://perishablepress.com/wordpress-custom-fields-tutorial/
 * http://perishablepress.com/wordpress-custom-fields-tips-tricks/
+* lynda.com: WordPress Plugins: Advanced Custom Fields with Morten Rand-Hendriksen
 
 #### Hooks
 (WordPress hooks enable you to change how WordPress behaves without editing any core files.)

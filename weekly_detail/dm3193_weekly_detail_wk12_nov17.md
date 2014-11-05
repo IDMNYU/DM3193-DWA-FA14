@@ -37,13 +37,18 @@
         <td valign="top">
         <ul>
         <li><a href="../dm3193_projects.md">Learning Log - week 12</a></li>
-        <li>CMS: CSS Formatting (Maxmimize theme's customization options if the theme has them. Otherwise, modify your child theme's CSS)</li>
+        <li>Read: http://codex.wordpress.org/Page_Templates</li>
+        <li>Read: http://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress</li>
+        <li>Read: http://codex.wordpress.org/Stepping_into_Templates</li>
+        <li>Read: http://codex.wordpress.org/Custom_Fields</li>
+        <li>Read: http://www.elegantthemes.com/blog/tips-tricks/how-to-create-wordpress-custom-fields</li>
+        <li>CMS: CSS Formatting (Maxmimize theme's customizer options if the theme has them. Otherwise, modify your child theme's CSS)</li>
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li></ul></td>
         <td>
             <ul>
             <li><a href="../dm3193_projects.md">Learning Log - week 12 (if you have not done so already)</a></li>      
-            <li>CSS Positioning or Custom Fields or Custom PhP Templates or Theme's Customize Options for Layout if the theme has them.</li>
-        <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
+            <li>CSS Positioning or Custom Fields or Custom PhP Templates or Theme's Customizer Options for Layout if the theme has them.</li>
+            <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
             </ul>
         </td>
     </tr>

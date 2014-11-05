@@ -137,22 +137,30 @@ Thematic & Genesis?
 * http://www.dbswebsite.com/design/wordpress-reference/v3/
 * [Digging Into Wordpress (DIW)] (http://digwp.com)
 
+#### The Wordpress Loop 
+(PHP code used by Wordpress to display posts)
+* http://codex.wordpress.org/The_Loop
+
 #### Page Templates
-* **http://codex.wordpress.org/Page_Templates**
+* http://codex.wordpress.org/Page_Templates
+* **http://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress**
 * http://codex.wordpress.org/Stepping_into_Templates
 * http://codex.wordpress.org/Site_Architecture_1.5
 * http://codex.wordpress.org/Stepping_Into_Template_Tags
 
 #### Custom Fields
-* **http://codex.wordpress.org/Custom_Fields**
+* http://codex.wordpress.org/Custom_Fields
+* **http://www.elegantthemes.com/blog/tips-tricks/how-to-create-wordpress-custom-fields**
 * http://perishablepress.com/wordpress-custom-fields-tutorial/
 * http://perishablepress.com/wordpress-custom-fields-tips-tricks/
 
 #### Hooks
+(WordPress hooks enable you to change how WordPress behaves without editing any core files.)
 * WordPress Essentials: The Definitive Guide to WordPress Hooks
   * http://wp.smashingmagazine.com/2011/10/07/definitive-guide-wordpress-hooks/
   * http://codex.wordpress.org/Plugin_API/Filter_Reference
-* [Wordpress Hooks Database] (http://adambrown.info/p/wp_hooks)
+  * http://codex.wordpress.org/Plugin_API/Action_Reference
+* [Adam Brown's Wordpress Hooks Database] (http://adambrown.info/p/wp_hooks)
 
 
 ### MISCELLANEOUS

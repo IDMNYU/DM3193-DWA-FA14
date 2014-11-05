@@ -45,6 +45,14 @@
             <li><a href="../resources/dm3193_wordpress_resources.md">Wordpress</a></li>
             <ul>
             <li>permalinks</li>
+            <li>Worepress Developer Resources</li>
+            <ul>
+            <li>Wordpress Theme Development Resources</li>
+            <li>Page Templates</li>
+            <li>Custom Fields</li>
+            <li>Hooks</li>
+            </ul>
+
             </ul>
         </ul></td>
     </tr>

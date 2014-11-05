@@ -22,7 +22,6 @@ http://wp.smashingmagazine.com/2013/05/15/migrate-existing-website-to-wordpress/
 
 #### Pages vs. Posts
 * Pages are static. Can't categorize or tag a page, don't appear in the RSS feed like posts do
-  * no comments
 
 #### Categories vs Tags
 

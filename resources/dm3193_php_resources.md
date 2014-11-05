@@ -10,6 +10,7 @@
 ##  PHP RESOURCES
 
 * [Official PHP Site] (http://php.net/manual/en/getting-started.php)
+* [PHP Tutorial for WordPress Users – PHP 101] (http://adambrown.info/b/widgets/easy-php-tutorial-for-wordpress-users/)
 * [w3schools.com] (http://www.w3schools.com/php/)
 * [codecademy] (http://www.codecademy.com/tracks/php)
 * lynda.com: Introducing PHP with David Powers

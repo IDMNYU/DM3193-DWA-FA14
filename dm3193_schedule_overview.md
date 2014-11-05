@@ -69,12 +69,12 @@
     </tr>
     <tr>
         <td valign="top">10</td>
-        <td valign="top">Nov 3<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md"><br>CMS: Research &amp; Deploy Theme</a></td>
+        <td valign="top">Nov 3<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md"><br>CMS: Research &amp; Deploy Responsive Theme</a></td>
         <td valign="top">Nov 5<br><a href="weekly_detail/dm3193_weekly_detail_wk10_nov3.md">CMS: Create Child Theme for WordPress</a></td>
     </tr>
     <tr>
         <td valign="top">11</td>
-        <td valign="top">Nov 10<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Populate Content (text and media)</td>
+        <td valign="top">Nov 10<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Populate Content (text and media)<br>CMS: Create Navigation and Basic Clickthrough</td>
         <td valign="top">Nov 12<br><a href="weekly_detail/dm3193_weekly_detail_wk11_nov10.md">CMS: Research &amp; Deploy Plugins & Widgets (Wordpress) or Modules (Drupal</a></td>
     </tr>
     <tr>

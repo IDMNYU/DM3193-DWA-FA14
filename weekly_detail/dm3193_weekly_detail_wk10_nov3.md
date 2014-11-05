@@ -25,11 +25,32 @@
     <tr>
         <td valign="top">class</td>
         <td valign="top"><ul>
-            <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tells:</a> Isaac &amp; Arif</li>
+            <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tells:</a> Isaac &amp; Rakinur</li>
+            <li><a href="../resources/dm3193_wordpress_resources.md">Wordpress</a></li>
+            <ul>
+            <li>themes</li>
+            <li>posts vs. pages</li>
+            <li>categories vs. tabs</li>
+            <li>users, roles, and permissions</li>
+            <li>plugins</li>
+            <li>widgets</li>
+            <li>menus</li>
+            </ul>
+
         </ul></td>
         <td valign="top">
             <ul>
-            <li>><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tells:</a> Matthew &amp; Rakinur</li>
+            <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tells:</a> Matthew &amp; Arif</li>
+            <li>PHP Tutorials</li>
+            <ul>
+            <li><a href="http://adambrown.info/b/widgets/easy-php-tutorial-for-wordpress-users/" target="_blank">PHP Tutorial for WordPress Users – PHP 101</a></li>
+            <li><a href="http://www.w3schools.com/php/php_intro.asp" target="_blank">w3schools</a></li>
+            <li><a href="http://www.codecademy.com/en/tracks/php" target="_blank">codeacademy</a></li>
+            </ul>
+            <li><a href="../resources/dm3193_wordpress_resources.md">Wordpress</a></li>
+            <ul>
+            <li>permalinks</li>
+            </ul>
         </ul></td>
     </tr>
     <tr>
@@ -40,8 +61,7 @@
         <li>Some of you need to resolve your visual interfaces before moving forward with CMS integration.</li>
         <li>Get wordpress installed on the server of your choice. If you are using sites.bxmc.poly.edu, make an appointment with Elton, eltonkwok@nyu.edu, to get another installation of wordpress in a different directory if you already have one.
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
-        <li>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
-        <li>CMS: Research &amp; Deploy Theme</li>
+        <li>CMS: Research &amp; Deploy Responsive Theme</li>
         </ul></td>
         <td>
             <ul>
@@ -49,8 +69,7 @@
            
             <li>Some of you need to resolve your visual interfaces before moving forward with CMS integration.</li>
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li>
-        <li>CMS: Continue to Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
-        <li>CMS: Research &amp; Deploy Child Theme</li>
+        <li>CMS: Create Child Theme for Wordpress (unless you're using a starter theme)</li>
             </ul>
         </td>
     </tr>

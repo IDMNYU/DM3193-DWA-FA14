@@ -40,7 +40,8 @@
         <li>Read: <a href="https://yoast.com/wordpress-theme-anatomy/" target="_blank">Yoast's Anatomy of a Wordpress Theme</a>
         <li>Read: <a href="http://www.smashingmagazine.com/2013/03/13/a-guide-to-wordpress-theme-options/" target="_blank">Smashing Magazine's A Guide To The Options For WordPress Theme Development</a>
         <li>Read: <a href="http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide" target="_blank">Complete Wordpress Theme Guide</a>
-        <li>CMS: Populate Content (text and media) as posts or pages in Wordpress or choose Content Type in Drupal</li>
+        <li>CMS: Populate Content (text and media) as posts or pages, tag and categorize, in Wordpress or choose Content Type in Drupal</li>
+        <li>CMS: Create Navigation and Basic Clickthrough (in Wordpress (Appearance -> Menus) and <a href="https://www.drupal.org/documentation/modules/menu" target="_blank">Drupal</a>)
         <li>CMS: Research &amp; Deploy Plugins (Wordpress) or Modules (Drupal)</li>
         <li>Depending on which CMS you choose, begin to watch Lynda tutorials for that CMS.</li></ul></td>
         <td>

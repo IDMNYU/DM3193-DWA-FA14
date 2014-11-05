@@ -69,7 +69,7 @@ I am listing only a very few (of a gazillion) below:
 * [Using $ instead of JQuery in Wordpress] (http://digwp.com/2011/09/using-instead-of-jquery-in-wordpress)
 
 
-### THEMES IN WORDPRES
+### THEMES IN WORDPRESS
 
 4 types of themes
 * Built in and Contributed http://wordpress.org/themes/ (Research Most Popular on right sidebar)
@@ -79,21 +79,12 @@ I am listing only a very few (of a gazillion) below:
 * Premium
 * Starter
 
-[Digging Into Wordpress (DIW)] (http://digwp.com)
-* core pages etc. - DIW p. 33
-
-[Smashing Magazine: A Guide to The Options for Wordpress Theme Development] (http://www.smashingmagazine.com/2013/03/13/a-guide-to-wordpress-theme-options/)
-
-[Yoast: Anatomy of a Wordpress Theme] (http://yoast.com/wordpress-theme-anatomy)
-
-[Webdesignerwall.com: Complete Wordpress Theme Guide] (http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide)
 
 #### Premium Themes
 * [graphpaperpress] (http://graphpaperpress.com)
 * [Elegant Themes] (http://elegantthemes.com)
 * [Themify.Me] (http://themify.me)
 * [Theme Forest] (http://themeforest.net)
-  * Theme Options
 
 #### Starter Themes
 * HTML 5 starting theme w/ responsive, mobile-first grid designs
@@ -114,6 +105,7 @@ I am listing only a very few (of a gazillion) below:
 * Skeleton http://themes.simplethemes.com/skeleton/
 * Super Skeleton - http://super-skeleton.mdnw.net/ (Fully Responsive / Touch)
 * required+ - http://themes.required.ch/ (based on foundation)
+* H5 Starter - http://digwp.com/2009/07/free-html-5-wordpress-theme/Theme by Chris Coyier
 
 
 [Roots] (http://roots.io) 
@@ -130,12 +122,14 @@ Thematic & Genesis?
 
 #### Wordpress Theme Development Resources
 * http://codex.wordpress.org/Theme_Development
+* [Smashing Magazine: A Guide to The Options for Wordpress Theme Development] (http://www.smashingmagazine.com/2013/03/13/a-guide-to-wordpress-theme-options/)
+* [Yoast: Anatomy of a Wordpress Theme] (http://yoast.com/wordpress-theme-anatomy)
+* [Webdesignerwall.com: Complete Wordpress Theme Guide] (http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide)
 * http://penguininitiatives.com/wordpress-theme-development-resources/
 
 #### Developer Wordpress Resources
 * http://codex.wordpress.org/Developer_Documentation
-* http://www.dbswebsite.com/design/wordpress-reference/v3/
-* [Digging Into Wordpress (DIW)] (http://digwp.com)
+* $ [Digging Into Wordpress (DIW)] (http://digwp.com) by Chris Coyier
 
 #### The Wordpress Loop 
 (PHP code used by Wordpress to display posts)
@@ -147,6 +141,7 @@ Thematic & Genesis?
 * http://codex.wordpress.org/Stepping_into_Templates
 * http://codex.wordpress.org/Site_Architecture_1.5
 * http://codex.wordpress.org/Stepping_Into_Template_Tags
+* **[Template Tag Reference Guide] (http://www.dbswebsite.com/design/wordpress-reference/v3/)**
 
 #### Custom Fields
 * http://codex.wordpress.org/Custom_Fields
@@ -160,6 +155,7 @@ Thematic & Genesis?
 * http://codex.wordpress.org/Plugin_API/Filter_Reference
 * http://codex.wordpress.org/Plugin_API/Action_Reference
 * [Adam Brown's Wordpress Hooks Database] (http://adambrown.info/p/wp_hooks)
+
 
 
 ### MISCELLANEOUS

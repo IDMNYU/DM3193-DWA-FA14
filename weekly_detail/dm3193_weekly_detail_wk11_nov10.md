@@ -24,8 +24,9 @@
 
     <tr>
         <td valign="top">class</td>
-        <td valign="top"><ul>
-            <li></li>
+        <td valign="top">
+        <ul>
+            <li>Review Basic CMS Clickthroughs</li>
         </ul></td>
         <td valign="top">
             <ul>

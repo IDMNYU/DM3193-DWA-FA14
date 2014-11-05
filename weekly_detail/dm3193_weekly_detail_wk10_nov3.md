@@ -41,12 +41,7 @@
         <td valign="top">
             <ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tells:</a> Matthew &amp; Arif</li>
-            <li>PHP Tutorials</li>
-            <ul>
-            <li><a href="http://adambrown.info/b/widgets/easy-php-tutorial-for-wordpress-users/" target="_blank">PHP Tutorial for WordPress Users – PHP 101</a></li>
-            <li><a href="http://www.w3schools.com/php/php_intro.asp" target="_blank">w3schools</a></li>
-            <li><a href="http://www.codecademy.com/en/tracks/php" target="_blank">codeacademy</a></li>
-            </ul>
+            <li><a href="../resources/dm3193_php_resources.md">Updated PHP Resources</a></li>
             <li><a href="../resources/dm3193_wordpress_resources.md">Wordpress</a></li>
             <ul>
             <li>permalinks</li>

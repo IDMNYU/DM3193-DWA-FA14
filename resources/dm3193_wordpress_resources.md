@@ -106,6 +106,7 @@ I am listing only a very few (of a gazillion) below:
 * Super Skeleton - http://super-skeleton.mdnw.net/ (Fully Responsive / Touch)
 * required+ - http://themes.required.ch/ (based on foundation)
 * H5 Starter - http://digwp.com/2009/07/free-html-5-wordpress-theme/Theme by Chris Coyier
+* FoundationPress - http://foundationpress.olefredrik.com/
 
 
 [Roots] (http://roots.io) 

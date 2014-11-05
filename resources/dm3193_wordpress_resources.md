@@ -65,8 +65,8 @@ I am listing only a very few (of a gazillion) below:
   * [Getting Started with bbPress] (http://wp.smashingmagazine.com/2011/11/15/getting-started-with-bbpress)
 
 #### JQuery
-[Including JQuery in Wordpress (the right way)] (http://digwp.com/2009/06/including-jquery-in-wordpress-the-right-way)
-[Using $ instead of JQuery in Wordpress] (http://digwp.com/2011/09/using-instead-of-jquery-in-wordpress)
+* [Including JQuery in Wordpress (the right way)] (http://digwp.com/2009/06/including-jquery-in-wordpress-the-right-way)
+* [Using $ instead of JQuery in Wordpress] (http://digwp.com/2011/09/using-instead-of-jquery-in-wordpress)
 
 
 ### THEMES IN WORDPRES
@@ -156,19 +156,19 @@ Thematic & Genesis?
 
 #### Hooks
 (WordPress hooks enable you to change how WordPress behaves without editing any core files.)
-* WordPress Essentials: The Definitive Guide to WordPress Hooks
-  * http://wp.smashingmagazine.com/2011/10/07/definitive-guide-wordpress-hooks/
-  * http://codex.wordpress.org/Plugin_API/Filter_Reference
-  * http://codex.wordpress.org/Plugin_API/Action_Reference
+* [WordPress Essentials: The Definitive Guide to WordPress Hooks] (http://wp.smashingmagazine.com/2011/10/07/definitive-guide-wordpress-hooks)
+* http://codex.wordpress.org/Plugin_API/Filter_Reference
+* http://codex.wordpress.org/Plugin_API/Action_Reference
 * [Adam Brown's Wordpress Hooks Database] (http://adambrown.info/p/wp_hooks)
 
 
 ### MISCELLANEOUS
 
 #### Wordpress Multisite 
-* can host multiple independent websites with a single installation of Wordpress
-[smashing magazine: WordPress Multisite: Practical Functions and Methods] (http://wp.smashingmagazine.com/2011/11/17/wordpress-multisite-practical-functions-methods/#more-104198)
+(can host multiple independent websites with a single installation of Wordpress)
+* [smashing magazine: WordPress Multisite: Practical Functions and Methods] (http://wp.smashingmagazine.com/2011/11/17/wordpress-multisite-practical-functions-methods/#more-104198)
 
-#### BuddyPress(social networking in a box)
-[smashing magazine: Buddypress showcase] (http://wp.smashingmagazine.com/2012/09/26/buddypress-one-plugin-five-communities)
+#### BuddyPress 
+(social networking in a box)
+* [smashing magazine: Buddypress showcase] (http://wp.smashingmagazine.com/2012/09/26/buddypress-one-plugin-five-communities)
 

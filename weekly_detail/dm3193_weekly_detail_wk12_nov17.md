@@ -26,10 +26,12 @@
         <td valign="top">class</td>
         <td valign="top"><ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tell:</a> Stanford</li>
+            <li>Review Student's CSS Formatting</li>
         </ul></td>
         <td valign="top">
             <ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tell:</a> Nancy</li>
+            <li>Review Student's CSS Positioning or Custom Fields or Custom PhP Templates or Theme's Customizer Options</li>
         </ul></td>
     </tr>
     <tr>

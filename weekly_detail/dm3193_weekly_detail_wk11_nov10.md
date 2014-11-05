@@ -39,6 +39,7 @@
         <td valign="top">
         <ul>
         <li><a href="../dm3193_projects.md">Learning Log - week 11</a></li>
+        <li>Read: <a href="http://adambrown.info/b/widgets/easy-php-tutorial-for-wordpress-users/" target="_blank">php tutorial for wordpress users</a></li>
         <li>Read: <a href="https://yoast.com/wordpress-theme-anatomy/" target="_blank">Yoast's Anatomy of a Wordpress Theme</a>
         <li>Read: <a href="http://www.smashingmagazine.com/2013/03/13/a-guide-to-wordpress-theme-options/" target="_blank">Smashing Magazine's A Guide To The Options For WordPress Theme Development</a>
         <li>Read: <a href="http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide" target="_blank">Complete Wordpress Theme Guide</a>

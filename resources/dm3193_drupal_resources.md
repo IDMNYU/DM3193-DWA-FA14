@@ -17,6 +17,8 @@
 * [lynda.com: Drupal 7 Essential Training with Tom Geller] (http://lynda.com)
 * [Drupal Cheat Sheet] (http://www.minezone.org/blog/wp-content/uploads/2007/12/drupal-theme-developers-cheat-sheet.pdf)
 * [Drupal Cheat Sheet Wallpaper] (http://www.smashingmagazine.com/2010/06/14/drupal-cheat-sheet-wallpaper)
+* [Change the Drupal Administration Appearance and Menu] (http://www.coolestguidesontheplanet.com/downtown/changing-the-drupal-administration-appearance-and-menu)
+  * [Drupal Administation Menu] (https://www.drupal.org/project/admin_menu)
 
 
 

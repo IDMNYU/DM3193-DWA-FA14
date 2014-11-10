@@ -38,6 +38,7 @@ I am listing only a very few (of a gazillion) below:
 * Akismet - spam
 * Contact Form 7
 * [Google Maps] (http://wordpress.org/plugins/wp-google-maps)
+* **[Google Analytics by Yoast] (https://wordpress.org/plugins/google-analytics-for-wordpress/)**
 * [Disable Comments] (http://wordpress.org/plugins/disable-comments)
 * [CommentLuv] (http://wordpress.org/plugins/commentluv)
 * [Jetpack by wordpress] (http://wordpress.org/plugins/jetpack/) 
@@ -45,13 +46,13 @@ I am listing only a very few (of a gazillion) below:
 * MailChimp
 * [w3 total cache] (http://wordpress.org/plugins/w3-total-cache)
 * [wp super cache] (http://wordpress.org/plugins/wp-super-cache)
-* [wordpress seo] (http://wordpress.org/plugins/wordpress-seo)
+* **[wp google fonts] (https://wordpress.org/plugins/wp-google-fonts/)**
+* [wordpress SEO] (http://wordpress.org/plugins/wordpress-seo)
 * [subscribe to comments] (http://wordpress.org/plugins/subscribe-to-comments)
 * [Disqus] (http://wordpress.org/plugins/disqus-comment-system)
 * [WP-reCAPTCHA] (http://wordpress.org/plugins/wp-recaptcha)
 * [Facebook] (http://wordpress.org/plugins/facebook)
-* Twitter
-* http://danzarrella.com/beyond-tweetbacks-introducing-tweetsuite.html
+* **[Simple Twitter Tweets] (https://wordpress.org/plugins/simple-twitter-tweets/)**
 * [Wordpress Backup to Dropbox] (http://wordpress.org/plugins/wordpress-backup-to-dropbox)
 * [Custom Login] (http://wordpress.org/plugins/custom-login)
 * [Theme-Check] (http://penguininitiatives.com/wp-plugin-theme-check)

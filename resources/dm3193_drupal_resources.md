@@ -19,6 +19,20 @@
 * [Drupal Cheat Sheet Wallpaper] (http://www.smashingmagazine.com/2010/06/14/drupal-cheat-sheet-wallpaper)
 * [Change the Drupal Administration Appearance and Menu] (http://www.coolestguidesontheplanet.com/downtown/changing-the-drupal-administration-appearance-and-menu)
   * [Drupal Administation Menu] (https://www.drupal.org/project/admin_menu)
+* [Drupal Handbooks] (https://www.drupal.org/documentation)
+  * Understanding Drupal
+  * Installation Guide
+  * Administration & Security Guide
+  * Structure Guide
+  * Site Building Guide
+  * Multilingual Guide
+  * Theming Guide
+    * [Overview of Theme Files] (https://www.drupal.org/node/171194)
+  * Mobile Guide
+  * Developer Guides
+    * Develop for Drupal
+    * API Reference
+  
 
 
 

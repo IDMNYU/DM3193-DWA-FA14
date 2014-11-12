@@ -9,6 +9,9 @@
 
 ## Wordpress Resources
 
+### Wordpress Cheat Sheet
+http://cdn.tutsplus.com/wp/uploads/legacy/resources/Wordpress-Cheat-Sheet.pdf
+
 ### MIGRATING AN EXISTING WEBSITE TO WORDPRESS
 http://wp.smashingmagazine.com/2013/05/15/migrate-existing-website-to-wordpress/
 

@@ -31,11 +31,12 @@
         <td valign="top">
             <ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tell:</a> Tony</li>
-            <li></li>
-            <li></li>
-            <li><a href="https://www.drupal.org/drupalcon" target="_blank">DrupalCon</a></li>
-            <li>Drupal Camp: <a href="http://nyccamp.org/" target="_blank">NYC Camp 2015, a Week-long, Free Drupal Conference in NYC, March 16-22, 2015</a></li>
-            <li>Review recommended <a href="../resources/dm3193_wordpress_resources.md" target="_blank">plugins</a> or modules</li>
+            <li><a href="../resources/dm3193_wordpress_resources.md">Wordpress Conferences and Meetups</a></li>
+            <li><a href="../resources/dm3193_drupal_resources.md">Drupal Conferences and Meetups</a></li>
+                <ul>
+                <li>Drupal Camp: <a href="http://nyccamp.org/" target="_blank">NYC Camp 2015, a Week-long, Free Drupal Conference in NYC, March 16-22, 2015</a></li>
+                </ul>
+            <li>Review recommended <a href="../resources/dm3193_wordpress_resources.md" target="_blank">plugins</a> or <a href="../resources/dm3193_drupal_resources.md" target="_blank">modules</a></li>
             <li>Review Student Plugin / Widget (Wordpress) or Module (Drupal) Selection</li>
         </ul></td>
     </tr>

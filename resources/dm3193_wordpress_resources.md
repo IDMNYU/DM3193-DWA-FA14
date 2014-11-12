@@ -172,3 +172,12 @@ Thematic & Genesis?
 (social networking in a box)
 * [smashing magazine: Buddypress showcase] (http://wp.smashingmagazine.com/2012/09/26/buddypress-one-plugin-five-communities)
 
+
+### WORDPRESS CONFERENCES & MEETUPS
+* [Wordpress NYC Meetup] (http://www.meetup.com/wordpressnyc/)
+* [Wordcamp] (http://central.wordcamp.org/schedule/)
+  * [Official Wordpress Conference: Wordcamp San Francisco] (http://2014.sf.wordcamp.org/)
+  * [Wordcamp NYC] (http://central.wordcamp.org/wordcamps/wordcamp-nyc)
+* [WordPress TV] (http://wordpress.tv/)
+  * [WordCamp TV] (http://wordpress.tv/category/wordcamptv)
+

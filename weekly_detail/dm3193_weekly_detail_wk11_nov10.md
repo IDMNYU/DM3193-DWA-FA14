@@ -31,6 +31,7 @@
         <td valign="top">
             <ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tell:</a> Tony</li>
+            <li>Review recommend <a href="../resources/dm3193_wordpress_resources.md" target="_blank">plugins</a> or modules</li>
             <li>Review Student Plugin / Widget (Wordpress) or Module (Drupal) Selection</li>
         </ul></td>
     </tr>

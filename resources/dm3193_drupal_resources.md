@@ -39,6 +39,7 @@
 ### DRUPAL CONFERENCES & MEETUPS
 * [Drupal NYC Meetup] (http://www.meetup.com/drupalnyc/)
 * [DrupalCon] (https://www.drupal.org/drupalcon)
-* [Drupal Camp] (http://nyccamp.org)
+* [Drupal Camps] (http://buildamodule.com/drupal-camps-calendar)
+  * [NYC Drupal Camp] (http://nyccamp.org)
 
 

@@ -13,6 +13,8 @@
 * [Drupal] (http://drupal.org) 
 * [Drupal Case Studies] (http://www.drupal.org/case-studies)
 * [Drupal Showcase] (http://drupalshowcase.com)
+* [DrupalCon] (https://www.drupal.org/drupalcon)
+* [Drupal Camp] (http://nyccamp.org)
 * [smashingmagazine: Drupal Developer’s Toolbox] (http://www.smashingmagazine.com/2008/09/24/drupal-developers-toolbox)
 * [lynda.com: Drupal 7 Essential Training with Tom Geller] (http://lynda.com)
 * [Drupal Cheat Sheet] (http://www.minezone.org/blog/wp-content/uploads/2007/12/drupal-theme-developers-cheat-sheet.pdf)

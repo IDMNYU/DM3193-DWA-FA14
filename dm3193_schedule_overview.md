@@ -79,8 +79,8 @@
     </tr>
     <tr>
         <td valign="top">12</td>
-        <td valign="top">Nov 17<br>CMS: CSS Formatting</td>
-        <td valign="top">Nov 19<br>CMS: CSS Positioning, Custom Fields, or Custom PHP Templates</td>
+        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">Nov 17<br>CMS: CSS Formatting</a></td>
+        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">Nov 19<br>CMS: CSS Positioning, Custom Fields, or Custom PHP Templates</a></td>
     </tr>
     <tr>
         <td valign="top">13</td>

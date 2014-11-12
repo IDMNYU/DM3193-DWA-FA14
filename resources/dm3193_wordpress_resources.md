@@ -37,7 +37,7 @@ http://wp.smashingmagazine.com/2013/05/15/migrate-existing-website-to-wordpress/
 #### Plug-ins (There's a plug-in for everything. 
 I am listing only a very few (of a gazillion) below:
 * **http://wordpress.org/plugins** (Research Most Popular on right sidebar)
-* [Tips and Tricks HQ: List of the Best and Must Use WordPress Plugins] (https://www.tipsandtricks-hq.com/list-of-the-best-and-must-use-wordpress-plugins-535)
+* **[Tips and Tricks HQ: List of the Best and Must Use WordPress Plugins] (https://www.tipsandtricks-hq.com/list-of-the-best-and-must-use-wordpress-plugins-535)**
 * http://digwp.com/2012/01/wordpress-cms-plugins/
 * Akismet - spam
 * Contact Form 7

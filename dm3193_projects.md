@@ -111,7 +111,10 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
 
 <tr>
     <td><strong>Letter to Next Cohort</strong></td>
-    <td>Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.</td>
+    <td><i>Email your letter to next cohort as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.</i> 
+    <ul>
+    <li>Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.</li>
+    </ul></td>
 </tr>
 
 <tr>

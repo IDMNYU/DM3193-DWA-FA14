@@ -80,7 +80,7 @@
     <tr>
         <td valign="top">12</td>
         <td valign="top">Nov 17<br><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">CMS: CSS Formatting</a></td>
-        <td valign="top">Nov 19<br><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">CMS: CSS Positioning, Custom Fields, or Custom PHP Templates</a></td>
+        <td valign="top">Nov 19<br><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">CMS: Custom Templates, Custom Fields, Custom Posts, and/or CSS Positioning</a></td>
     </tr>
     <tr>
         <td valign="top">13</td>

@@ -89,10 +89,8 @@
     </tr>
     <tr>
         <td valign="top">14</td>
-        <td valign="top">Dec 1<br>Quality Assurance (Cross-Browser &amp; Cross-Device Check)<br>
-        (OPTIONAL) CMS: Recreate your site in the other CMS (Drupal or Wordpress) instead to compare and contrast</td>
-        <td valign="top">Dec 3<br>Quality Assurance (Cross-Browser &amp; Cross-Device Check)<br>
-        (OPTIONAL) CMS: Recreate your site in the other CMS (Drupal or Wordpress) instead to compare and contrast</td>
+        <td valign="top">Dec 1<br>Quality Assurance (Cross-Browser &amp; Cross-Device Check)</td>
+        <td valign="top">Dec 3<br>Quality Assurance (Cross-Browser &amp; Cross-Device Check)</td>
     </tr>
     <tr>
         <td valign="top">15</td>

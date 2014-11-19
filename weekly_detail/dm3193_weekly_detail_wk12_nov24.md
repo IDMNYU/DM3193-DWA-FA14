@@ -24,7 +24,8 @@
 
     <tr>
         <td valign="top">class</td>
-        <td valign="top"><ul>
+        <td valign="top">CMS: Debug Theme Modification
+        <ul>
             <li><a href="https://github.com/IDMNYU/DM3193-DWA-FA14/blob/master/dm3193_projects.md">Show &amp; Tell:</a> Aleksandr</li>
             <li>Review Students' CMS Progress</li>
         </ul></td>

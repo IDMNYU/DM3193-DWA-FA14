@@ -79,12 +79,12 @@
     </tr>
     <tr>
         <td valign="top">12</td>
-        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">Nov 17<br>CMS: CSS Formatting</a></td>
-        <td valign="top"><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">Nov 19<br>CMS: CSS Positioning, Custom Fields, or Custom PHP Templates</a></td>
+        <td valign="top">Nov 17<br><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">CMS: CSS Formatting</a></td>
+        <td valign="top">Nov 19<br><a href="weekly_detail/dm3193_weekly_detail_wk12_nov17.md">CMS: CSS Positioning, Custom Fields, or Custom PHP Templates</a></td>
     </tr>
     <tr>
         <td valign="top">13</td>
-        <td valign="top">Nov 24<br>CMS: Debug Theme Modification</td>
+        <td valign="top">Nov 24<br><a href="weekly_detail/dm3193_weekly_detail_wk12_nov24.md" target="_blank">CMS: Debug Theme Modification</a></td>
         <td valign="top">Nov 26<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>

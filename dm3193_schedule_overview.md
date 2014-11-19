@@ -15,9 +15,9 @@
 *Github / Basecamp are living, dynamic sources. **If there are any changes to the schedule as printed in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
 <table>
     <tr>
-        <th>wk</th>
-        <th>Mondays (Due on Date Listed)</th>
-        <th>Wednesdays (Due on Date Listed)</th>
+        <th width="2%">wk</th>
+        <th width="49%">Mondays (Due on Date Listed)</th>
+        <th width="49%">Wednesdays (Due on Date Listed)</th>
     </tr>
     <tr>
         <td valign="top">1</td>

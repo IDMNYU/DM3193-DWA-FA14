@@ -141,7 +141,7 @@ Thematic & Genesis?
 (PHP code used by Wordpress to display posts)
 * http://codex.wordpress.org/The_Loop
 
-#### Page Templates
+#### Custom Page Templates
 * http://codex.wordpress.org/Page_Templates
 * http://codex.wordpress.org/Stepping_into_Templates
 * http://codex.wordpress.org/Site_Architecture_1.5

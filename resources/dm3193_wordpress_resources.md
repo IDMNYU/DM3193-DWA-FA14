@@ -171,7 +171,7 @@ Thematic & Genesis?
 * http://codex.wordpress.org/Plugin_API/Filter_Reference
 * http://codex.wordpress.org/Plugin_API/Action_Reference
 * [Adam Brown's Wordpress Hooks Database] (http://adambrown.info/p/wp_hooks)
-
+* **[Template Tag Reference Guide] (http://www.dbswebsite.com/design/wordpress-reference/v3/)**
 
 
 ### MISCELLANEOUS

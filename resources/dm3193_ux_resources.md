@@ -21,6 +21,7 @@
 * The Principles of Beautiful Web Design, Second Edition 
 by Jason Beaird *
 * [UX Magazine] (http://www.uxmag.com)
+* [A Good User Interface] (https://goodui.org)
 
 ### Sitemaps
 * http://quirktools.com (smaps) 

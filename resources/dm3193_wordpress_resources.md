@@ -155,7 +155,8 @@ Thematic & Genesis?
 
 #### Custom Post Types
 * **http://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress**
-* There are also wordpress plugins for this as well:
+* [Custom Post Type UI Wordpress Plugin] (https://wordpress.org/plugins/custom-post-type-ui)
+* [Types Wordpress Plugin] (http://wp-types.com/home/types-manage-post-types-taxonomy-and-custom-fields)
 
 #### Custom Fields
 * http://codex.wordpress.org/Custom_Fields
@@ -163,7 +164,14 @@ Thematic & Genesis?
 * http://perishablepress.com/wordpress-custom-fields-tutorial/
 * http://perishablepress.com/wordpress-custom-fields-tips-tricks/
 * [Advanced Custom Fields Plugin] (https://wordpress.org/plugins/advanced-custom-fields)
+* [Types Wordpress Plugin] (http://wp-types.com/home/types-manage-post-types-taxonomy-and-custom-fields)
+* [Pods Wordpress Plugin] (https://wordpress.org/plugins/pods/)
 * lynda.com: WordPress Plugins: Advanced Custom Fields with Morten Rand-Hendriksen
+
+#### Custom Shortcuts
+
+* [How To Create Shortcodes In WordPress] http://www.elegantthemes.com/blog/tips-tricks/how-to-create-shortcodes-in-wordpress
+
 
 #### Hooks
 (WordPress hooks enable you to change how WordPress behaves without editing any core files.)

@@ -143,17 +143,22 @@ Thematic & Genesis?
 
 #### Page Templates
 * http://codex.wordpress.org/Page_Templates
-* **http://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress**
+
 * http://codex.wordpress.org/Stepping_into_Templates
 * http://codex.wordpress.org/Site_Architecture_1.5
 * http://codex.wordpress.org/Stepping_Into_Template_Tags
 * **[Template Tag Reference Guide] (http://www.dbswebsite.com/design/wordpress-reference/v3/)**
+
+#### Custom Post Types
+* **http://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress**
+* There are also wordpress plugins for this as well:
 
 #### Custom Fields
 * http://codex.wordpress.org/Custom_Fields
 * **http://www.elegantthemes.com/blog/tips-tricks/how-to-create-wordpress-custom-fields**
 * http://perishablepress.com/wordpress-custom-fields-tutorial/
 * http://perishablepress.com/wordpress-custom-fields-tips-tricks/
+* [Advanced Custom Fields Plugin] (https://wordpress.org/plugins/advanced-custom-fields)
 * lynda.com: WordPress Plugins: Advanced Custom Fields with Morten Rand-Hendriksen
 
 #### Hooks

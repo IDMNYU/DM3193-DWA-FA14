@@ -143,11 +143,15 @@ Thematic & Genesis?
 
 #### Page Templates
 * http://codex.wordpress.org/Page_Templates
-
 * http://codex.wordpress.org/Stepping_into_Templates
 * http://codex.wordpress.org/Site_Architecture_1.5
 * http://codex.wordpress.org/Stepping_Into_Template_Tags
 * **[Template Tag Reference Guide] (http://www.dbswebsite.com/design/wordpress-reference/v3/)**
+* **[How To Create a WordPress Custom Page Template] (http://line25.com/tutorials/how-to-create-a-wordpress-custom-page-template)**
+* [How to Create a WordPress Custom Page Template in 5 Simple Steps] (http://premium.wpmudev.org/blog/wordpress-custom-page-template)
+* [How To Create A Custom Page Template In WordPress] (http://www.expand2web.com/blog/custom-page-template-wordpress)
+* [Create Custom Page Templates in WordPress] (http://www.htmlgoodies.com/beyond/webmaster/toolbox/create-custom-page-templates-in-wordpress.html)
+* [Elegtanthemes.com: An Introduction To WordPress Page Templates] (http://www.elegantthemes.com/blog/resources/an-introduction-to-wordpress-page-templates)
 
 #### Custom Post Types
 * **http://www.elegantthemes.com/blog/tips-tricks/creating-custom-post-types-in-wordpress**

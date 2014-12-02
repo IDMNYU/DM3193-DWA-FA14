@@ -110,13 +110,7 @@ MAGNET 883, to set up an appointment for space on sites.bxmc.poly.edu.</p></td>
     </ul></td>
 </tr>
 
-<tr>
-    <td><strong>Letter to Next Cohort</strong></td>
-    <td><i>Email your letter as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.</i> 
-    <ul>
-    <li>Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.</li>
-    </ul></td>
-</tr>
+
 
 <tr>
     <td><strong>Reading Responses</strong></td>
@@ -144,35 +138,7 @@ Based on the article and your own experience, create 10 commandments for success
 </td>
 </tr>
 
-<tr>
-    <td><strong>Self-Assessment: Final<br></strong></td>
-    <td><p>Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</p>
 
-Of Self<br>
-<ul>
-<li>How has your <strong>web design and development process</strong> changed, since beginning this course? Evaluate your increased awareness and understanding of the <strong>web design and development process</strong>
-<li>Describe what specific, visual foundation elements have begun to inform your other work. 
-<li>Also, specifically, evaluate the growth of your illustrator, photoshop, and indesign skills and other skillsets as it relates to this course. 
-<li>If your growth is not where you would like it to be, what specific steps will you take to improve your skills?
-<li>What resources have you found to be specifically helpful to you for this course? And why?
-<li>Did you accomplish your goals that you established at the outset of this course?
-What other things have you learned in this course?
-</ul>
-Of Classmates
-<ul>
-<li>Which classmate(s) inspired you the most and why? Speak to particular project(s) they did.</li>
-</ul>
-Of The Course
-<ul>
-<li>What assignment(s) did you like <strong>the most</strong> and why?</li>
-<li>What assignment(s) did you like <strong>the least</strong> and why?</li>
-<li>What change(s) would you make to this class and why?</li>
-</ul>
-Feedback re: required book
-<ul>
-<li>JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
-</ul></td>
-</tr>
 
 <tr>
     <td><strong>Show &amp; Tells<br></strong></td>
@@ -203,6 +169,46 @@ material provided and answer 1 or both of the following questions:
     </ul></td>
 </tr>
 
+
+
+</table>
+
+### END OF SEMESTER DELIVERABLES
+<table>
+<tr>
+    <td><strong>Letter to Next Cohort</strong></td>
+    <td><i>Email your letter as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.</i> 
+    <ul>
+    <li>Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.</li>
+    </ul></td>
+</tr>
+<tr>
+    <td><strong>Self-Assessment: Final<br></strong></td>
+    <td><p>Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</p>
+
+Of Self<br>
+<ul>
+<li>How has your <strong>web design and development process</strong> changed, since beginning this course? Evaluate your increased awareness and understanding of the <strong>web design and development process</strong>
+<li>If your growth is not where you would like it to be, what specific steps will you take to improve your skills?
+<li>What resources have you found to be specifically helpful to you for this course? And why?
+<li>Did you accomplish your goals that you established at the outset of this course?
+What other things have you learned in this course?
+</ul>
+Of Classmates
+<ul>
+<li>Which classmate(s) inspired you the most and why?</li>
+</ul>
+Of The Course
+<ul>
+<li>What assignment(s) did you like <strong>the most</strong> and why? (Refer to assignments listed above.)</li>
+<li>What assignment(s) did you like <strong>the least</strong> and why?</li>
+<li>What change(s) would you make to this class and why?</li>
+</ul>
+Feedback re: required book
+<ul>
+<li>JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
+</ul></td>
+</tr>
 <tr>
 <td><strong>END OF SEMESTER PDF</strong></td>
 <td>PDF Cover:

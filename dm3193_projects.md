@@ -206,8 +206,8 @@ Of The Course
 </ul>
 Of Your Final Project
 <ul>
-<li>What qualitative description would you give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</li>
-<li>What qualitative description would you give the execution of your logo project and why?</li>
+<li>What qualitative description would you give <strong>your process</strong> and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</li>
+<li>What qualitative description would you give the execution of <strong>your final project</strong> and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</li>
 </ul>
 (If you purchased) Feedback re: required book
 <ul>

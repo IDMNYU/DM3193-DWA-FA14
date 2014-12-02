@@ -35,12 +35,12 @@
 <li>wordpress (http://wordpress.org)</li>
 <li>drupal (http://www.drupal.org)</li>
 <li>ruby on rails (http://rubyonrails.org)</li>
-<li>or another CMS of your choice (CS students only)</li>
+<li>or another CMS of your choice if approved by the instructor (CS students only)</li>
 </ul></td>
 
     </tr>
     <tr>
-        <td><strong><a id="idm">IDM Coursework Documentation</a></strong></td>
+        <td><strong>IDM Coursework Documentation</strong></td>
         <td><p>Set up your IDM coursework documentation site at sites.bxmc.poly.edu/~yourfirstnamelastname/idm</p>
 <p>Add your blog URL to basecamp underneath, MESSAGES > IDM coursework documentation, as a comment.</p>
 <p>This is a new policy that IDM is implementing this semester. We would like to begin archiving all student coursework.
@@ -126,7 +126,7 @@ Based on the article and your own experience, create 10 commandments for success
 
 <tr>
     <td><strong>Self-Assessment: Midterm<br></strong></td>
-    <td><p>Email your midterm self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</p>
+    <td><p><i>Email your midterm self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</i></p>
 
 <p>Critically analyze/evaluate your <strong>web design and development process</strong> and how it is has changed over the course of the semester.</p>
 <ul> 
@@ -184,7 +184,7 @@ material provided and answer 1 or both of the following questions:
 </tr>
 <tr>
     <td><strong>Self-Assessment: Final<br></strong></td>
-    <td><p>Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</p>
+    <td><p><i>Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.</i></p>
 
 Of Self<br>
 <ul>
@@ -204,7 +204,12 @@ Of The Course
 <li>What assignment(s) did you like <strong>the least</strong> and why?</li>
 <li>What change(s) would you make to this class and why?</li>
 </ul>
-Feedback re: required book
+Of Your Final Project
+<ul>
+<li>What qualitative description would you give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</li>
+<li>What qualitative description would you give the execution of your logo project and why?</li>
+</ul>
+(If you purchased) Feedback re: required book
 <ul>
 <li>JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
 </ul></td>

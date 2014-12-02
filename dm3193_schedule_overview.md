@@ -94,11 +94,11 @@
     </tr>
     <tr>
         <td valign="top">15</td>
-        <td valign="top">Dec 8<br><strong>Final: Content Management System<br>Final Portfolio pdf<br>Final Self Assessments</strong></td>
-        <td valign="top">Dec 10-12<br>Individual One on Ones</td>
+        <td valign="top">Dec 8<br><strong>Final: Content Management System</strong></td>
+        <td valign="top">Dec 10-12<br>Individual One on Ones TBD<br><a href="dm3193_projects.md">Final Portfolio pdf<br>Final Self Assessment pdf<br>Letter to Next Cohort pdf</a></td>
     </tr>
     <tr>
         <td valign="top">16</td>
-        <td colspan="2">Dec 15-17<br>Individual One on Ones</td>
+        <td colspan="2">Dec 15-17<br>Individual One on Ones TBD<br><a href="dm3193_projects.md">Final Portfolio pdf<br>Final Self Assessment pdf<br>Letter to Next Cohort pdf</a></td>
     </tr>
 </table>

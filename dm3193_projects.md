@@ -30,11 +30,12 @@
     </tr>
     <tr>
         <td><strong>Final: Course Management System (CMS)</strong></td>
-        <td>Migrate your website to a CMS of your choice (back-end or server-side integration)
+        <td>Migrate your website to a CMS of your choice (back-end or server-side integration) while maintaining the same look and feel, structure, and layout of your flat file site.
 <ul>
 <li>wordpress (http://wordpress.org)</li>
 <li>drupal (http://www.drupal.org)</li>
 <li>ruby on rails (http://rubyonrails.org)</li>
+<li>or another CMS of your choice (CS students only)</li>
 </ul></td>
 
     </tr>

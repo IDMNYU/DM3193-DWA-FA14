@@ -11,6 +11,7 @@
 
 ### Wordpress Cheat Sheet
 http://cdn.tutsplus.com/wp/uploads/legacy/resources/Wordpress-Cheat-Sheet.pdf
+http://overapi.com/static/cs/wpcs.png
 
 ### MIGRATING AN EXISTING WEBSITE TO WORDPRESS
 http://webdesignerwall.com/tutorials/exporting-and-importing-wordpress

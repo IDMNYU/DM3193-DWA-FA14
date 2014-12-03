@@ -13,8 +13,14 @@
 http://cdn.tutsplus.com/wp/uploads/legacy/resources/Wordpress-Cheat-Sheet.pdf
 http://overapi.com/static/cs/wpcs.png
 
-### MIGRATING AN EXISTING WEBSITE TO WORDPRESS
-http://webdesignerwall.com/tutorials/exporting-and-importing-wordpress
+### MIGRATING WORDPRESS FROM A LOCAL SERVER TO A REMOTE SERVER
+*http://webdesignerwall.com/tutorials/exporting-and-importing-wordpress*
+
+### CREATING A WORDPRESS SITE ON A LOCAL SERVER
+http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide
+http://css-tricks.com/video-screencasts/87-moving-up-with-mamp/
+
+### MIGRATING A FLAT FILE SITE TO WORDPRESS
 http://wp.smashingmagazine.com/2013/05/15/migrate-existing-website-to-wordpress/
 
 ### BASIC WORDPRESS RESOURCES

@@ -19,6 +19,7 @@ http://overapi.com/static/cs/wpcs.png
 ### Creating A Wordpress Site On A Local Server
 http://webdesignerwall.com/tutorials/complete-wordpress-theme-guide
 http://css-tricks.com/video-screencasts/87-moving-up-with-mamp/
+http://www.smashingmagazine.com/2011/09/28/developing-wordpress-locally-with-mamp/
 
 ### Migrating A Flat File Site To Wordpress
 http://wp.smashingmagazine.com/2013/05/15/migrate-existing-website-to-wordpress/

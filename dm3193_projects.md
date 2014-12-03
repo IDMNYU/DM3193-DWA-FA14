@@ -204,15 +204,7 @@ Of The Course
 <li>What assignment(s) did you like <strong>the least</strong> and why?</li>
 <li>What change(s) would you make to this class and why?</li>
 </ul>
-Of Your Final Project
-<ul>
-<li>What qualitative description would you give <strong>your process</strong> and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</li>
-<li>What qualitative description would you give the execution of <strong>your final project</strong> and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)</li>
-</ul>
-(If you purchased) Feedback re: required book
-<ul>
-<li>JavaScript and JQuery: Interactive Front-End Web Development by Jon Duckett
-</ul></td>
+</td>
 </tr>
 <tr>
 <td><strong>END OF SEMESTER PDF</strong></td>

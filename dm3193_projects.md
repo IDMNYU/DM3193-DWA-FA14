@@ -218,12 +218,11 @@ Of The Course
 PDF Contents:
 <ul>
 <li> Revised Project plan</li>
-<li> Revised Essay</li>
 <li> HTML5/CSS3/Responsive</li>
   <ul>
   <li> Sitemap</li>
   <li> Wireframes or Schematics</li>
-  <li> Comps</li>
+  <li> Inspiration and Mood Boards</li>
   <li> Tech &amp; Functionality Specifications</li>
   <li> Screenshots</li>
   </ul>
@@ -231,7 +230,7 @@ PDF Contents:
   <ul>
   <li> (Optional Revised) Sitemap</li>
   <li> (Optional Revised) Wireframes or Schematics</li>
-  <li> (Optional Revised) Comps</li>
+  <li> (Optional Revised) Inspiration and Mood Boards</li>
   <li> Revised Tech &amp; Functionality Specifications</li>
   <li> Screenshots</li>
   </ul>

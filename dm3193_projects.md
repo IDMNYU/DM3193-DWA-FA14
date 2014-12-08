@@ -224,6 +224,10 @@ PDF Contents:
   <li> Wireframes or Schematics</li>
   <li> Inspiration and Mood Boards</li>
   <li> Tech &amp; Functionality Specifications</li>
+      <ul>
+      <li>List the framework you used (Foundation, Bootstrap, etc.)</li>
+      <li>List your URL (and ISP if applicable)</li>
+      </ul>
   <li> Screenshots</li>
   </ul>
 <li> Wordpress, Drupal, Ruby on Rails, (or your chosen CMS if discussed with professor)</li>
@@ -232,6 +236,13 @@ PDF Contents:
   <li> (Optional Revised) Wireframes or Schematics</li>
   <li> (Optional Revised) Inspiration and Mood Boards</li>
   <li> Revised Tech &amp; Functionality Specifications</li>
+    <ul>
+      <li>List the CMS you used (Wordpress, Drupal, Symphony, etc.)</li>
+      <li>List the theme you used (if applicable)</li>
+      <li>List all the plugins or modules you actually used</li>
+      <li>List any custom templates or custom fields you created (if applicable)</li>
+      <li>List your URL (and ISP if applicable)</li>
+      </ul>
   <li> Screenshots</li>
   </ul>
 </ul>

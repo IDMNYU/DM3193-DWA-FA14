@@ -208,7 +208,9 @@ Of The Course
 </tr>
 <tr>
 <td><strong>END OF SEMESTER PDF</strong></td>
-<td>PDF Cover:
+<td><i>Email as a pdf to deangela.duff@nyu.edu or attach to a message on basecamp.</i> 
+
+PDF Cover:
 <ul>
 <li>Your First and Last Name</li>
 <li>DM 3193 Dynamic Web Applications</li>

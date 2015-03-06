@@ -46,6 +46,7 @@
 * [Webmonkey](http://www.webmonkey.com)
 * [50 of the Best Online Courses and Resources for Learning Web Design](http://lifehacker.com/50-of-the-best-online-courses-and-resources-for-learnin-1506605654)
 * [5by5Podcasts](http://5by5.tv) (Big Web Show, The Web Ahead, etc.)
+* [EggHead] (https://egghead.io)
 
 
 

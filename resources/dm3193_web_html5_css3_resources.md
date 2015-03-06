@@ -24,6 +24,7 @@
 
 #### General Web, HTML5, and CSS3 Reference
 * [w3schools] (http://w3schools.com)
+* [Flatiron Pre-work] (http://prework.flatironschool.com/#overview)
 
 #### Resource: Clients (Front-End) vs. Servers (Back-End)
 * http://www.w3schools.com/website/web_host_intro.asp

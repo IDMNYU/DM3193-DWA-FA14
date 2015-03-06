@@ -23,4 +23,6 @@
 * [Introduction to GitHub & Git Foundations](https://www.youtube.com/watch?v=FyfwLX4HAxM)
 * [Other resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 * [Keeping forks in sync] (https://help.github.com/articles/syncing-a-fork) 
+* [codeschool.com: Git Basics] (https://www.codeschool.com/courses/try-git)
+
 
